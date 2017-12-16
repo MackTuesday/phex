@@ -1,0 +1,937 @@
+/////////////////////////////////////
+// BACKSTORY ////////////////////////
+/////////////////////////////////////
+
+Player is a cop who trailed a thief from the Arth sector. The thief used some
+ sort of wormhole creating artifact to escape and the player followed. Thief
+ didn't operate the artifact properly and came through damaged. Hull ruptures,
+ ship too small for escape pods, attempts landing on nearby planet, crashes
+ and dies.
+Player is damaged but has nicer ship and hull ruptures are contained. Ship's in
+ terrible shape though, and crossing his/her fingers, player issues a distress
+ call.
+
+Ssh is destroyed
+About 1000 survive
+They travel in time to some thousands of years prior
+Hardship transforms them, they become the Soom Fenderit
+They develop a prophecy promising an "Era of Justice"
+- The "Great Persecutor" or something will come
+- The "Great Victim" or something
+- Commit "Crime of the Ages"
+- "Final Revenge"
+Player appears, matches prophetic description
+The Fenderit arrange for player to deliver weapon to Ssh
+
+
+
+//////////////////////////////////////
+// STORY ELEMENTS AND QUESTS /////////
+//////////////////////////////////////
+
+Player returns to Luesheen for payment for delivering what we all thought was
+ terraforming tech
+Fenderit activist shows up in scout vessel warning of hostile fleet approaching
+Fight, Luesheen repel hostile fleet, but not before they destroy the scout (for
+ player feels)
+Luesheen describe the prophecy to player
+Player gets means to fly base around
+- If player goes to listening post, finds establishment warships there
+Eventually Fenderit attack. After this happens the activists make contact.
+Somehow player learns that the Fenderit swapped the catalysts
+- Activists are aware some evidence has been destroyed, but they aren't sure
+  if it's the catalysts. They suggest talking to Kee Pensette.
+- Kee Pensette discover their records have been falsified - they didn't get
+  what the manufacturer said they got.
+- Player gives records to activists, who are able to verify that Fenderit
+  authorities are indeed responsible.
+It doesn't matter though. Agents use the dirty evidence and ignore all else.
+Meanwhile attacks on player base increase in frequency and intensity
+- Fleets come and retreat when the going gets tough. They come back
+  ever larger and the cycle repeats until a certain number of ships are
+  defeated.
+Now that the Ssh tragedy has occurred, the Nameless One has regained memory of
+ its purpose. It's a monument to a group who fell to the Soom Fenderit sometime
+ in the Fenderit's history. It knows the actual story, which had been
+ overwritten after this group disappeared. It won't tell the story until it can
+ broadcast it everywhere.
+Activists ask the player for help destroying the three jamming bases. This will
+ allow the Nameless One to broadcast its news.
+
+Ending cutscene or something:
+Tensions among the Fenderit populace reach a tipping point.
+Revolution starts including an eventual coup.
+The cabal disappears.
+
+Afterward:
+Side quests are still available
+The Luesheen know where the cabal went but won't tell. (They asked for asylum
+ among the Luesheen, which was granted.) Justice is irrelevant
+ now. They can't do any more harm where they've gone. Trial and punishment
+ would be nothing more than revenge at this point. Nothing can be gained by
+ further suffering, even if they're the ones who suffer.
+ - I see. Maybe you're right.
+
+ - No, if their suffering helps the rest of us find peace, it's worth it.
+ - In the long run, peace will be no easier or harder to find.
+ - We don't have a "long run". Each of us has maybe a century and that's it. It
+   takes generations to heal from a catastrophe like this. Until then we live
+   without the resolution justice can bring.
+ - A civilization first learns to starve its anger rather than satisfying it.
+   Only then does it find peace.
+
+ - I guess I can't argue with that.
+ - Of course it's all easier said than done. You're experiencing that first
+   hand, and I can only imagine how hard it is.
+
+ - I'm not talking about a civilization. I'm talking about people. You're
+   covering for mass murderers but leaving the survivors to fend for
+   themselves.
+ - I promise you, we do more than meets the eye.
+ - OK, what then? What do you do?
+ - You would argue if I told you, but then tire of arguing before I
+   could satisfy you.
+ - Ah, the "It's too complicated" defense.
+ - I'm not defending us; I won't ask you to approve. I'm discussing the matter
+   hoping you find some sort of satisfaction thereby.
+
+ - I'll never be satisfied and I'm sure I'll never approve. You think you're
+   beyond right and wrong, but you're not. The rules apply to you, too.
+ - You're mistaken about us. I suppose I can only hope you forgive us
+   someday for what must seem like arrogance and condescension.
+ - Well not today.
+
+ - I don't think I'll ever be satisfied, unfortunately.
+ - As is your choice. Until next time.
+
+
+
+
+/*************************************************************
+The War
+- Series of fights culminating at the Fenderit homeworld.
+- People the player helped without expecting anything in return show up to
+  help as a surprise
+- Each fight is meant to remove some strength the enemy has. They aren't easy
+  to win.
+- At each fight, friends will retreat if things are going badly for them. If
+  the protagonist retreats, there's a modest chance the battle will be won
+  anyway, depending on the number of friends left. But any goodies that fight
+  leaves are forfeit.
+- Retreating from the final battle is considered a loss, forcing reload.
+- Major characters in this chapter
+  - Fenderit activist the player worked with earlier
+  - Lexy if appropriate
+  - Kee Pensette representative group
+  - Fenderit activist battle commander
+  - Fenderit security officer encountered near Nameless One?
+  - A rogue clinkltook? The one from the distress call?
+  - Choxx from pirate base?
+  - Nameless One?
+  - Fecto squadron leader
+  - The ship that was out of fuel, if the player helped without payment;
+    spent a lot of time souping up the ship and didn't want to miss out?
+  - Dweenle kamikazi
+- Player is summoned to uninhabited system just outside Fenderit space
+  - Everyone's waiting for player there
+  - Battle commander puts player in charge of Fecto squadron, Kee Pensette
+    squadron, and free agents
+- First attack location
+  - Shyneum refinery, modest defenses
+  - Victory means a flat fuel stipend at the beginning of each remaining
+    battle of the war such that the better engines don't use fuel at
+    all.
+- Second attack location
+  - Telecommunications hub, moderate defenses
+  - Reward is a large cache of rare materials, and combat bonuses dependent on
+    the number of friends in the fight.
+- Third attack location
+  - Black skunkworks, minimally defended until huge ambush surrounds battalion
+  - Reward is some sweet tech
+- Final battle
+  - Fenderit homeworld, tremendous defenses, other friendly battalions present
+  - First skirmish
+    - Neutralize great big automated defense node
+    - Dweenle attempts kamikazi, misses
+  - Second skirmish
+    - Hey Dweenle, you're more useful if you fight instead of trying to kill
+      yourself. "Oh no, I'm afraid to fight."
+    - Destroy fleet of mid-tier battleships
+    - Dweenle attempts kamikazi, misses again
+  - Third skirmish
+    - Destroy super giganto capital ship
+    - "What does this button do?" "Why do I hear counting?" Dweenle
+      accidentally self-destructs
+  - Final cutscene
+    - Destroy command center, everyone's involved, Fenderit hopelessly
+      outnumbered, they get totally pounded
+***************************************************************/
+
+
+Player shows up in sector looking for the thief who stole a valuable AI
+ - Asking around, player eventually gets a tip that the thief was tracked going
+   in a certain direction.
+ - Player goes in that direction, searching, eventually finding a crashed ship
+   with a damaged female android.
+ - The android has been programmed to love the thief. The thief is dead and
+   she's grieving.
+ - The player has three choices: revert the android's programming and use it as
+   a member of the crew, leave the android as is and keep it imprisoned on the
+   ship, or set it free.
+   - To set it free or use it as a member of the crew, player must give it a
+     body. This involves some quest to get the necessary help.
+   - Using it as a member of the crew requires reprogramming it to be
+     compliant. If the player decides to do this, the AI says, "Before you
+     reprogram me, let me say this: *I hope you burn in hell*."
+   - To set it free, the player must find a ship for it. It's a quest to
+     get several components to put together to make the ship.
+ - If the player makes the AI a new ship, s/he will get a distress signal at
+   some point because the AI is being harassed by pirates.
+
+Player needs ship help
+ - Ssh repair ship and give fuel
+ - Everyone uses shyneum
+ - Choxx pirates use endurium, maybe also shyneum
+ - No one else uses endurium because Kee Pensette figured out they're alive
+ - Can sometimes find free fuel planetside
+ - There's a ton of endurium on the Kee Pensette homeworld, but if player
+   takes any of it, Kee Pensette will take it back by force, and they will
+   always win the fight.
+
+The Luesheen set the player on a quest to drop probes at specified locations
+ in the region so they might match up the energy burst with an accompanying
+ event elsewhere in the galaxy.
+ - Three probes
+ - One is in uninhabited space
+ - One is in friendly space
+ - One is in very dangerous hostile space - sensitive Soom Fenderit space
+ - The Fecto steal one. This makes for another quest.
+ - The Soom Fenderit absolutely will not allow access to their location.
+ - A neighbor of the Fenderit knows of some sneaky way in.
+ - After the player tries to enter but declines to fight, someone comes
+   along and tells the player about the person who knows the sneaky way in.
+ - The results are useless because there are too many events to tell which
+   belongs to the player.
+ - But the player gains some nice goodies along the way, making the quest
+   worthwhile anyway.
+
+The Fecto steal one of the probes
+ - They claim the player doesn't need it. "You don't understand. This is
+   extremely important!" "Yes, it is important."
+ - Besides, they say it still belongs to the player. It's just that they're
+   going to keep it from now on.
+ - Discussion about what possession actually means?
+ - If player wants to fight, the Fecto say it isn't nearby. There is
+   nothing to be gained from fighting.
+ - If player attacks, Fecto disappear.
+ - Ssh tell player to say some particular weird thing to the Fecto.
+ - When the player does this, the Fecto say they put it back. When the
+   player checks, it will indeed be there. It will not be there until
+   the player says the special thing and goes and checks.
+ - When the player visits the probe after it reappears, it is painted in
+   bright colors.
+ - "But you said I didn't need it, and you were going to keep it from now
+   on." "You don't need it, and it will never leave our space."
+ - "Why didn't you just tell me you wanted to paint it?" "We didn't want
+   to paint it." "OK, why didn't you tell me you were going to paint it?"
+   "We weren't going to paint it." "What were you going to do with it?"
+   "We were going to please it." "What the hell does that mean?" "It
+   means now. (They disappear)"
+ - ... "Why did you paint it then?" "We didn't paint it." And if the
+   player checks the probe again, they find it is no longer painted. (This is
+   an illusion. Not sure whether or how this is ever revealed to
+   the player.)
+ - If the player returns again to the probe, it will be painted. There will be
+   no changes afterward.
+
+Player somehow finds a being of some kind in a cage, starving to death.
+ - Player is unable to move or open the cage. Clues lead player to "owner" of
+   being.
+ - Owner is a Soom Fenderit.
+ - Owner can't be bothered, but won't give up the being because owner has
+   lawful possession of the being and is also a control freak. Law supports
+   owner so there's no legal recourse for player. Owner won't allow player to
+   help because of pride and can't be bothered.
+ - In fact there's nothing the player can do. At some point the being dies. The
+   owner gets away with it.
+ - There is a sequence allowing the player to get revenge.
+ - Owner begs for life. Player can choose not to kill.
+ - There's also an option to "choose not to kill" without any confrontation.
+ - If player kills owner, gets a useful artifact, gets the species' law
+   enforcement upset.
+ - If player "proactively spares" owner, someone shows up and gives player the
+   artifact.
+
+The Pit
+ - This is an area where the ship visually appears to move but its coords don't
+   change like they should.
+ - There's nothing in the center until the player has the right device and
+   turns it on. Then there's some way to enter.
+ - Things get interesting when the player turns the device off while inside...
+
+Interstellar law prohibits expansion, but one race is trying to break the
+ rules. The player can choose to help by finding colonizable planets or expose.
+ - If the player helps, there are monetary rewards for finding planets with
+   certain properties. The Luesheen will know the player is helping. When they
+   confront the player about it, the player has the option of pointing out that
+   the Clinkltook won't be able to use the information anyway.
+ - If the player exposes, there's a big lump sum reward and maybe some
+   technology. Maybe it also affects the circumstances of the final battles. Or
+   maybe not. The lump sum might need to be very large to compete with the
+   money the Clinkltook will give for planet info.
+
+Two races vie for the same system.
+ - Somehow this quest insures that the player is equipped to take the pirate
+   base.
+ - One race has no other nearby system.
+ - The other has several but this one is the best.
+ - When player learns of the problem, can go to Luesheen for advice.
+ - Luesheen ambassador has gone missing.
+ - Luesheen ask player for a favor. Talk to the race with more choices and
+   offer plans for tech to alter the environment on their 2nd best planet,
+   which is in another system. <=== Not using this idea
+
+When Ssh learn of the terraforming tech, they ask the player if he can get
+ another copy built. <=== Not using this idea
+ - Player gets copy built
+ - Person who builds it is pressured by Fenderit to build WMD instead
+ - Player delivers it
+ - This is the device that wipes out Ssh.
+
+Missing ambassador
+ - Pirates have taken him for ransom.
+ - Luesheen refused to pay, so the pirates have killed him.
+ - Luesheen ask player to retrieve the ship.
+ - Advise player that they need to bring materials they can use to rebuild base
+   armaments and personnel to run the base. Otherwise pirates will take it over
+   again.
+ - Big fight at pirate base with help from Luesheen.
+ - Choxx will make noise about an attack on their territory, but when it's
+   pointed out that Choxx outlaws abducted the frickin ambassador, and by the
+   way what did Choxx authorities ever do to take care of those pirates, their
+   protests reduce to empty face-saving threats, including something about
+   you're the one with the candy shell. And of course, "Are you talking?"
+ - Pirate base is left available for player to occupy.
+ - Ambassador's ship can auto-pilot home.
+
+There's a being who was rotated through 4 dimensions, so its intersection with
+3-d space has 0 mass, and so it is moving through space at the speed of light.
+Someone, probably the Luesheen, tells the player about the being and provides
+some sort of "holographic capture device" or something that makes the player
+able to catch and interact with the being.
+ - Maybe the player takes the being back to the Luesheen, who are able to
+   restore the being.
+ - The being turns out to be a Dweenle.
+ - No time has passed for the being. Its last memory was being depressed and
+   doing something depressing, when some strange disturbance came through and
+   caused the transformation. The Dweenle is certain it's going to die so
+   whatever.
+ - Somehow it comes out that the Dweenle isn't all that interested in learning
+   whether it's dead or alive. Because what's the difference?
+ - The Dweenle will join your crew and give a bonus to scanning.
+
+The Fecto want you to be yourself. That's all they tell you. After you
+interact with some other species, when you come back they ask you if you've
+been yourself. You can say yes, say no, lie yes, or lie no. No matter what you
+say, they find a way to turn it around into a "yes" and they give you
+something. (What do they give you?)
+
+If player gets ship for AI, distress call at some point from pirate attack.
+
+Other distress calls
+ - Pirate ambush
+ - Soom Fenderit needs help but won't say what or what went wrong. It has a
+   delivery for the Fenderit authorities. It's an encrypted communique. The
+   Kee Pensette can decrypt it but not without the Fenderit finding out (if
+   they ever receive the communique). Turns out the message is a recipe for
+   something called Brundle Fly Surprise. (Come up with a better idea?)
+ - Choxx party bus has a flat tire. "Flat tire? In space?" "Shut up, fag."
+   Choxx will pay for help with repairs. There are prostitutes on board who
+   will pay for passage to a starbase.
+ - Unmanned vessel selling something stupid, won't shut up. If the player
+   destroys the vessel, player finds some nice goodies and also gets a reward
+   from Ssh, who were sick of that bullshit. Distress call repeats until that
+   vessel is destroyed. Then faux game ending indicating victory.
+ - A Clinkltook ship's reactor is losing stability. The ship is destroyed when
+   the player arrives. There is some material to be salvaged
+   in this case. There's a useful piece of equipment here too. If the player
+   returns it to the Clinkltook, they show some kind of gratitude.
+ - A Kee Pensette ship is lost near a nexus of continuum fluxes. Their
+   instruments are damaged and they don't know which one leads home.
+ - A Choxx beer "truck" has somehow "crashed" in interstellar space. They need
+   repairs and help gathering the containers strewn about the vicinity. They
+   think they're missing 8 but they're missing 9. If the player finds the 9th
+   s/he has choice of handing it over or keeping it. If s/he hands it over s/he
+   gets a thank you. If s/he keeps it s/he can sell it at the Choxx homeworld
+   for a substantial price.
+ - Derelict vessel full of corpses. Hull breach and the ship is open to space.
+   Looks like the work of a pirate attack. Nothing salvageable. A personal log
+   contains ciphered information about the location of something cool. This is
+   a puzzle for the player.
+ - A ship is out of fuel. When the player shows up, they say, "Oh hey. Usually
+   Mel answers our calls."
+ - A lone alien is floating in a spacesuit with no ship around, far from its
+   home territory. The alien is unconscious. The player takes the alien on
+   board to be returned to its homeworld, but it mysteriously disappears.
+   Cause? It leaves some trinket behind.
+ - Distress calls from base when it's under attack.
+
+At some point in the game, Choxx tells player s/he "talks like a fag".
+
+On the far side of Soom Fenderit space, in the "hinterlands", there is a being
+that ends up being called The Nameless One.
+ - The player will be told to stay away from that area of space by the
+   Fenderit. S/he can't enter that region of space without a very tough fight.
+ - A neighbor of the Fenderit knows of some sneaky way in.
+ - Once inside, the Nameless One contacts the player and tells of the situation
+   with the Fenderit.
+ - The neighbor will refer the player to the Luesheen.
+ - The Luesheen send the player to the Soom Fenderit homeworld, asking the
+   player to do it as a favor. If the ambassador/starbase quest is complete,
+   the Luesheen refer to the player as an honorary ambassador.
+ - The Fenderit claim the Nameless One is a liar, terribly dangerous, and
+   mustn't be allowed to communicate freely with others. It'll trick other
+   species into waging war with each other, so they claim.
+ - The player is then free to help the Nameless One expand its signal range.
+ - It turns out the Nameless One has been around for millions of years. It
+   doesn't know what's been happening for the last few thousand because the
+   Fenderit clamped down on it as soon as contact was made. It does know about
+   the Endurium beings, and this knowledge changes the region's economy. The
+   player's claims about endurium are met with disbelief, except by the Kee
+   Pensette, who accept the claims as an explanation of their own experiences
+   with endurium. <====== Not using this idea.
+
+Player finds undocumented race out in beyond-the-map space (The Guoip-Hlosh)
+
+////////////////////////////////////////
+// SUBJECTS OF CONVERSATION  ///////////
+////////////////////////////////////////
+
+- Great Question
+- Other entities
+  -
+
+////////////////////////////////////////
+//  RACES  /////////////////////////////
+////////////////////////////////////////
+
+Induction Beings
+ - Kee Pensette (This is what the Luesheen call them. It means "vibrating
+                 friends". It suggests their rather electromagnetic
+                 nature.)
+ - Their world orbits a pulsar
+ - Live on changes in magnetic flux
+ - Made from semiconductors and metals, with maybe bio-squishy stuff for things
+   that minerals can't do
+ - They're naturally sessile but figured out how to use machines to move
+   around. That was their big mobile revolution a couple thousand years before
+   they became spacefaring.
+ - They can sense from radio all the way up into X-rays.
+ - Their hearing isn't very good.
+ - They smell spectroscopically. They don't distinguish between odor and color
+   as strongly as we do.
+ - They see visible light roughly like we do.
+ - Their ships radiate unusually for aesthetic reasons.
+ - They don't use endurium because they can't stand the "sound" when it's used
+   as fuel.
+ - They're eusocial.
+ - Their ships fire powerfully but charge slowly.
+ - They reproduce by falling apart, merging gooies with each other, splitting
+   apart, cocooning, then emerging.
+ - They don't really do humor.
+ - Their ships have long-range beam weaponry and are the most powerful of the
+   minor species.
+ - Their answer to the great question: We're here because we ask why we're
+   here. The question itself is God and we worship curiosity -- not *with*
+   curiosity, but curiosity *itself*.
+ - They don't think about their own esteem.
+ - They find the Clinkltooks' general trepidation a bit annoying, but they're
+   also impressed with their courage, because they understand the Clinkltook
+   can't help being afraid of other species.
+ - They have a good relationship with the Luesheen, partly out of fascination
+   about the mystery of their appearance (the notion of privacy is unnatural
+   for them), partly out of respect for their unity despite not being built for
+   eusociality, and also simply because the Luesheen are really nice.
+ - They dislike the Soom Fenderit because their constant in-fighting rubs
+   them the wrong way, but they tolerate them.
+ - They're distrustful of Ssh because they can't imagine how such a motley
+   bunch can work together so well. They must be hiding something. They like
+   Ssh but don't want to.
+ - They're totally perplexed by the Choxx but don't care to think about it
+   much.
+ - They're cool with the Fecto.
+ - They sympathize with the Ixquaplorn but don't empathize.
+ - They like the player alright as long as s/he isn't a dick.
+
+Amphibians in the form of mats of turf
+ - Clinkltook
+ - They're low on the food chain.
+ - Their style is defensive, a little paranoid.
+ - Their ships are tough and fast but don't hit hard.
+ - They're interested in the idea of a fine line between safety and tragedy.
+ - Their primary themes in humor involve perforation and getting wet.
+ - This stuff comes from their use of a hydrophobic layer they use to enhance
+   surface tension when they're on the water.
+ - Great question: The question is a meaningless tautology.
+ - They think they're the sanest species around. Everyone else seems incredibly
+   foolhardy.
+ - They admire Kee Pensette very much because the whole EM-light-energy thing
+   strikes them as godlike. This is despite their understanding of the science
+   behind it.
+ - They find the Luesheen to be a bit self-important but respect their good
+   nature.
+ - They're afraid of the Soom Fenderit, who manipulate the Clinkltook with
+   veiled threats. The Luesheen try to tell them to stand up for themselves,
+   assuring them the Luesheen would never let the Fenderit harm them, but they
+   take some offense at that advice: it's awfully easy for a powerful species
+   like the Luesheen to say "Stand up for yourselves".
+ - They like Ssh the most because Ssh know pain and fear but remain positive.
+   It also helps that they're unable to wage war and are thus no threat.
+ - They positively hate the Choxx for obvious reasons.
+ - The Fectos' teeth freak them out and strains their relationship, but they
+   get along alright as long as they aren't in the same room.
+ - They're puzzled by the somewhat haughty attitude of the Ixquaplorn but know
+   how it is to feel distant from other species.
+ - They get along alright with the player, but one misstep will ruin the
+   relationship for the rest of the game.
+
+Aliens inspired by the cold Scottish shore
+ - Luesheen
+ - They don't show their faces. Instead they transmit a cloudy, grey, pebbled
+   beach.
+ - They come across as melancholy.
+ - They're loners by nature.
+ - They're naturally isolationist but fight it. It shows up subtly in their
+   behavior.
+ - They see strength in solitude but are proud of their ability to work
+   together. It's a hard-won ability that they developed proactively rather
+   than out of a real need for survival. They are a benevolent power in this
+   region.
+ - They don't see more social races as better or worse. They respect any
+   society's ability to retain harmony, however they manage it.
+ - There is a character in the game who has seen them, but won't tell what they
+   look like. This character is also good.
+   "Alright, can you keep a secret?"
+   "Yes."
+   "So can I."
+ - They will mention eating in the company of others. This is a joke they know
+   the player won't understand. They always eat alone.
+ - Great question: We gave up thinking about that long ago.
+ - They insist on limits to expansion. They appreciate the importance of
+   controlling more than one star system, but see unchecked exponential growth
+   as unsustainable. They have a secret project to generate unlimited resources
+   because they don't trust some other races to keep their cool, and they know
+   it's only a matter of time before some huge expansionist dickhead comes
+   along to spoil the party. Eventually, when they have perfected the
+   technology, they plan to share it. This is The Pit. They explain all this
+   stuff to the player if she finds the truth.
+ - They're proud of themselves but do their best to be humble.
+ - They love the Kee Pensette. They have a centuries-long friendship and find
+   great beauty in their pensive and eusocial nature.
+ - They find the Soom Fenderit distasteful but keep as close a relationship
+   with them as possible for two reasons: maximize mutual trust for the purpose
+   of knowing the deepest possible details about them, and maximize the
+   positivity of their relationship.
+ - They're quite concerned for Ssh. Ssh are vulnerable and they consider their
+   outward positivity to be partially a front for inner turmoil considering
+   their difficult past. The Luesheen feel very protective of Ssh. They won't
+   let the Choxx pick on them, but they don't do much about Choxx pirates
+   because the Choxx protect them, and the Luesheen don't see it as
+   sufficient casus belli. The Luesheen
+   are wise but they must tolerate some bad behavior in order to keep the
+   region stable in a greater sense.
+ - They can't help but laugh at the Choxx. They know it's a bit offensive to
+   the other races because the Choxx tend to cause trouble and fear among the
+   minor races, and they know it's mean to look down on another species, so
+   they hide it as well as they can, but they find the Choxx to be pathetic to
+   the point of hilarity.
+ - They get along alright with the Fecto.
+ - They don't try very hard to make friends with the Ixquaplorn.
+ - They size up the player and immediately decide s/he's likeable but not to be
+   trifled with.
+
+The Seers
+ - Soom Fenderit
+ - These are the ones who end up being assholes.
+ - They are rivals of the Luesheen but the peace is easy, mostly because they'd
+   never hold up in a fight against the Luesheen. They aren't really sane
+   enough to function as efficiently.
+ - Blue-grey, kind of like bipedal rhinoceroses with beaks.
+ - They're a bit douche-y.
+ - They claim to be the first race in this region, but of course that's a lie.
+   They actually wiped out or subsumed everyone, then hunkered down.
+ - Great question: General distaste for philosophy.
+ - When the Luesheen discovered FTL, the Fenderit Soom were peaceful but
+   manipulated them in the interest of holding them back technologically.
+   Luesheen eventually got wise. They're canny and long-lived so they were able
+   to play a long con against the Fenderit Soom, developing technology in
+   secret until they were in a position to stand up for themselves. The
+   Fenderit Soom were surprised but remain prepared for bad things to happen,
+   and felt confident when they declared total war on the Luesheen. They were
+   no match for the Luesheen because they were sloppy in their execution. They
+   wasted a lot of energy on internal squabbling and the Luesheen were focused
+   on their purpose. Also, the Luesheen were very adept at hiding their plans
+   and capabilities. In a bargain for their existence (the Luesheen were
+   bluffing, would never wipe out another species), the Fenderit Soom agreed to
+   the non-expansion treaty that stands to this day. This all happened many
+   centuries ago.
+ - They're too busy in-fighting to think about self-esteem.
+ - They hate the Kee Pensette because they're jealous of their beauty, and are
+   frustrated with their inability to manipulate this minor race.
+ - They would hate the Luesheen if the Luesheen weren't so powerful, but they
+   don't allow it because they don't want conflict: deep down they're afraid of
+   the Luesheen. Instead they get nervous around the Luesheen and hide it with
+   the appearance of veiled disrespect.
+ - They laugh at Ssh but don't bother them because they consider Ssh not worth
+   the time.
+ - They get along with the Choxx because it's easy to manipulate them. The
+   Choxx don't even realize it's happening. The Fenderit have absolutely no
+   respect for the Choxx.
+ - The Fecto creep them out. The best players among the Fenderit successfully
+   manipulate the Fecto, but others don't try.
+ - Currently in a truce with the Ixquaplorn. They try to make it sound like
+   they've shown them mercy, but it's really because the Ixquaplorn are much
+   better strategists than the Fenderit.
+ - They underestimate the player.
+
+The Cooperative
+ - Ssh
+ - From an alternate reality, so they say.
+ - They're actually from the far future, they just don't realize it.
+ - They talk about there being no binary systems in their vicinity. "We miss
+   binary systems."
+ - They just appeared in the region.
+ - They're just rebuilding. They consider readying their escape device their
+   first priority. This takes years to accomplish.
+ - Great question: Everything that doesn't preclude itself exists.
+ - They will pay player to help.
+ - They refuse free help out of pride.
+ - Their humor is similar to humans'.
+ - They have a single orbital station. It's their sole interplanetary presence.
+   It's boldly colored because the Fecto painted it as a sign of friendship.
+ - They envy the Kee Pensette. They say so openly but also make it clear that
+   they bear them no ill will. It's a friendly kind of jealousy.
+ - They really want to trust the Luesheen. They don't understand why the
+   Luesheen don't just go ahead and wipe out the Choxx pirates.
+ - They *venomously detest* the Soom Fenderit. This doesn't translate to
+   violent ideation, though. They can't put their finger on why their feelings
+   are so strong.
+ - They resent the occasional mistreatment they suffer from Choxx pirates,
+   against whom they're powerless. They would destroy any and every Choxx
+   vessel on sight if they could.
+ - They don't know what to make of the Fecto but trust them without knowing
+   exactly why.
+ - They don't try very hard to make friends with the Ixquaplorn.
+ - They're careful with the player but warm to his/her story of finding
+   oneself alone in a strange place.
+
+Expansionists
+ - Choxx
+ - Big wrinkly balls with snouts sticking out all over -- no symmetry.
+ - Not really warlike but they are kinda pushy.
+ - Easily offended.
+ - Disgusted by weakness.
+ - Internal armed conflict over which sports team is better.
+   - They have only one.
+   - It's called "You're My Bitch".
+   - Kicking each other's asses is their version of sports commentary.
+ - At some point they will demand the player say which team is
+   better. No matter how the player chooses, the Choxx attack.
+ - Use "fag" and "gay" and "retard". They talk in brospeak.
+ - Constant references to ovipositors.
+ - Hey bro, got any bitches on that ship with fat ovipositors? Love me some fat
+   ovipositors.
+ - Look up how immature kids talk nasty shit in online games.
+ - Pirates are mostly Choxx and mostly appear near Choxx territory. Their base
+   is in Choxx territory.
+ - Even though they're assholes, they get sentimental when Ssh are destroyed.
+ - Ships scan like jacked-up pickup trucks.
+ - Pirate ships scan like pirate ships.
+ - Great question: Ovipositors
+ - They're too insensitive to think consciously in terms of self-esteem, but
+   down deep they feel insecure. They can see that other races are using their
+   brains more effectively.
+ - They don't think much about Kee Pensette. Not interested either way.
+ - They find the Luesheen frustrating, always ruining their fun. Bunch of fags
+   and pussies.
+ - They're cronies of the Soom Fenderit and do whatever they say. They profit
+   greatly from this relationship.
+ - They find Ssh pathetic and laughable. They can't help but want to push Ssh
+   around.
+ - They're freaked out by the Fecto, don't want anything to do with them.
+ - They used to bother the Ixquaplorn but leave them alone now.
+ - They laugh at the player and try to destroy him/her. When that doesn't work
+   out, they either hate the shit out of the player, or start wanting to be
+   bro-pals with them, depending on how badly they got beaten. If they interact
+   with the player enough, they eventually find the player tedious.
+
+Frog-wetas
+ - Fecto
+ - Quadrupeds shaped a bit like big wetas
+ - Bumpy, bumps have neon yellow caps, cobalt blue background
+ - Long sharp teeth
+ - No recognizable eyes
+ - Creepy and weird but amiable (they're actually pretty decent people)
+ - Their central humor theme is about their poison -- leaking, too watery,
+   delicious. They also think less colorful beings are hilarious.
+ - They ask what color human blood is. When told it's red, they're very
+   impressed. If the player lies and says it's colorless, they apologize in
+   case the player is offended. They're a bit mortified. If the player lies
+   and claims some other color, they have trouble believing it because we have
+   a pinkish cast. "We don't buy it. What color is it really? Or maybe you
+   don't want to talk about it."
+ - They're very interested in ecologies with life that's brightly colored but
+   not poisonous.
+ - Great question: Their answer to the player is a bunch of weird psychedelic
+   shit that doesn't sound like much of anything at all.
+ - Their thoughts about themselves are not really expressible to others.
+ - They're fascinated by the Kee Pensette just because they're so different.
+   They get along alright.
+ - They think the Luesheen won't show themselves because they're transparent
+   and ashamed of it. Don't the Luesheen see there's nothing to be ashamed of?
+ - They feel really bad for the Soom Fenderit. They must be really confused and
+   desperate if they make factions, factions that aren't even based on color.
+ - They don't understand the idea of being "creeped out". They don't take it
+   personally when other species avoid them. They actually take it as a sign of
+   respect. They instinctively feel that being left alone is recognition of
+   their defensive capabilities.
+ - They're fascinated by Ssh. So many different kinds of beings all living
+   together! They also feel bad for them. Their colors are many but the
+   boldness of those colors is inconsistent and that makes them seem extra
+   vulnerable to the Fecto. They're also truly vulnerable. The Fecto painted
+   the Ssh orbital station.
+ - They're irresistibly attracted (not sexually, just... attracted) to the
+   Choxx. They can't explain why in terms anyone else understands.
+ - They have a very close relationship with the Ixquaplorn simply because the
+   Ixquaplorn have been so nice to them. Their feelings about the Ixquaplorn
+   don't translate to human emotions.
+ - They think the player is funny -- a lone, plainly colored ship reminds them
+   instinctively of a hopelessly incompetent predator.
+
+Hammerhead Humanoids
+ - Ixquaplorn
+ - Red skin, hammerheads
+ - Big, pretty eyes, not unlike those huge doll heads in Star Trek IV
+ - They're very understandable, like Ssh.
+ - They eat their own poop, like rabbits.
+ - Not very tolerant of people's differences. They can have good professional
+   relationships with other species but are otherwise standoffish.
+ - Great question: They reference an Ultimate Cause that is its own cause.
+ - They think of themselves as pretty okay.
+ - They find the Kee Pensette a bit tiresome for being so... Pensette-y.
+ - They also find the Clinkltook tiresome for being so cautious.
+ - They roll their eyes at the Luesheen, who seem really self-important to
+   them.
+ - Currently in a truce with the Soom Fenderit. They accept their differences
+   with the Fenderit as one of the vagaries of interspecies relationships.
+ - They don't trust Ssh. Such a mismatched group of beings seems sketchy to
+   them.
+ - They have a hostile relationship with the Choxx.
+ - They have a very close relationship with the Fecto because the whole freaky
+   cryptic thing is refreshing.
+ - They get along alright with the player but consider him/her a busybody.
+
+Widely Distributed Incorporeal Intelligence
+ - Has no name. Tells the player s/he can refer to it as The Nameless One.
+ - Emergent intelligence resulting from a number of communication nodes
+   scattered around several star systems.
+ - The nodes are absolutely indestructible and look artificial.
+ - To be found when the player wanders into the hinterlands.
+ - Soom Fenderit know about it due to proximity, but hide its existence from
+   other species. They do this purely because they want control.
+ - It wants to communicate with other species in the region but needs help
+   expanding the range of its signals.
+ - It turns out the Fenderit are jamming them.
+ - There's a quest involving freeing this being.
+ - Great question: They agree with the Clinkltook. The question is like asking,
+   "Why is the great question 'Why'?"
+
+Rock Fruit
+ - Guoip-Hlosh
+ - Mobile "fruit" of sessile beings that grow from rocks
+ - Hermaphrodites
+ - Sessile stage is extremely hardy. They have leaves like succulents, only
+   tougher.
+ - They wander far in their "spore" stage. This is their intelligent stage.
+ - They metamorph into their "adult" stage in which they bind with a rock
+   surface and develop a thorny shell. Inside the shell, they bore into the
+   rock and germinate.
+ - Spore stage is built for travel. Legs like a hare with long forelimbs. All
+   hands/feet can extrude gecko-type surface for climbing rock. Built flexible
+   and lithe like cats. Webbed limbs for gliding.
+ - Omnivorous. Short hair like tarantula abdomens or the micro-barbed stuff
+   some cactuses have. Heads like sloths.
+ - They prefer to bind with other adults but will take root alone if necessary.
+ - They became intelligent when they developed the ability to communicate with
+   others they found, learning about good areas to germinate. Then they started
+   using tools to treat rock surfaces, making more surfaces viable for
+   germination.
+ - Why bother with soil if you can go find a rock that's relatively hard to get
+   to?
+ - Their answer to the big question is, "Why not?"
+ - Their joke: "Why shouldn't you bind with a lawyer? You'll slide off in the
+   rain."
+
+==========================================================================
+
+Life classifications
+
+0 - Focuses of order
+I - Autocatalytic processes
+II - Reproductive organisms
+III - Adaptive organisms
+IV - Trainable organisms
+V - Intelligent organisms
+VI - Metacognitive organisms
+VII - Autospecific organisms
+* - Artificial
+s - Sterile analogues
+Subclassifications indicate sophistication
+ of metagenetics
+Humans - VI-III
+Luesheen - VII-VII
+Clinkltook - VI-II
+Fenderit - VI-IV
+Choxx - VI-III
+Fecto - VI-IV
+Ixquaplorn - VI-III
+Dolphin - VI?
+Higher Ape - VI?
+Magpie - VI?
+Pig - V
+Dog - IV to V
+Cat - V
+Parrot - V
+Rabbit - V?
+Rat - V?
+Most animals - IV to V
+Software - II* to VII*, usually sterile
+Electronic devices - IIs* to IVs*
+Plants and microbes - III
+Viruses - II
+Crystals - I
+Stars - I
+Prions - I
+Memes - I*
+Ring system - 0
+Planet, moon - 0
+Luggage - 0*
+
+
+===========================================================================
+
+Atmospheric profile
+
+Debye temperature
+Td = h Vs/2k cuberoot (6/pi n/V)  (Vs is material's speed of sound,
+                                   molar volume V, Avogadro's constant n)
+
+Heat flux per area j
+j = σT(H)^4 / 2   (divide by about 2 because half the planet is
+                   in darkness and ^4 kills smaller temps)
+  = L(1-A)/4DD    (Stellar lum L, albedo A, distance from star D)
+H = height of atmosphere
+σ = 2pi^5/15 kkkk/cchhh  = 5.67e-8 W/mmKKKK = Stefan-Boltzmann constant
+
+du/dr = k1  (heat u, altitude r, some constant k1)
+du = c dT  (c = molar heat capacity)
+du/dr = c dT/dr = k1
+dT = k1/c dr
+
+Debye molar heat capacity, low temperature
+c = 12pi^4/5 R (T/Td)^3
+high temperature
+c = 3R (1 - 1/20 (Td/T)^2)
+
+p = m/V = mP/RT  (molar volume V)
+m = pV = pa δr   (some area a)
+
+dF = g dM  (Force on unit area due to pressure F, mass M)
+dM = pa dr        kg = kg/mmm mm m
+dF = gpa dr       kg m/ss = m/ss kg/mmm mm m
+dP = gp dr        kg m/ss/mm = kg/mss = m/ss kg/mmm m
+   = gmP/RT dr                        = m/ss kg kgm/ss/mm m / (kgm/ss/mm mmm)
+                                      = m/ss kg m / mmm = kg/mss
+
+R = 8.3 N/mm mmm / (mol K)
+
+Actually it should be
+dP = -gmP/RT dr
+dT = -k1/c dr
+   = -k1 / (3R (1 - 1/20 (Td/T)^2)) dr
+   = a / (b - (c/T)^2)
+   = -k1 / (3R - 3R/20 (Td/T)^2) dr
+   = -k1 / (3R - sqrt(3R/20)^2 (Td/T)^2) dr
+   = -k1 / (3R - (sqrt(3R/20) Td/T)^2) dr
+a = -k1
+b = 3R
+c = sqrt (3R/20) Td
+
+T = (+- sqrt ((-ar - k2)^2 - 4bc^2) + ar + k2) / 2b
+  = (+- sqrt ((k1 r - k2)^2 - 4 3R (sqrt (3R/20) Td)^2) - k1 r + k2) / 6R
+  = (+- sqrt ((k1 r - k2)^2 - 4 3R (3R/20) Td^2) - k1 r + k2) / 6R
+  = (+- sqrt ((k1 r - k2)^2 - 9RR/5 Td^2) - k1 r + k2) / 6R
+T(0) = (+- sqrt (k2^2 - 9RR/5 Td^2) + k2) / 6R
+T(0) = (+- sqrt (k2^2 - 3e+5) + k2) / 49.8
+280 = (+- sqrt (k2^2 - 3e+5) + k2) / 49.8
+13944 = +- sqrt (k2^2 - 3e+5) + k2
+13944 - k2 = +- sqrt (k2^2 - 3e+5)
+194435136 - 27888 k2 + k2^2 = k2^2 - 3e+5
+27888 k2 = 194100000
+k2 = 6960
+dP = -gmP 6 / (sqrt ((k1 r - k2)^2 - 9RR/5 Td^2) - k1 r + k2) dr
+   = aP / (+-sqrt ((br - c)^2 - d) - br + c) dr
+a = -6gm = -1.69
+b = k1 = about 50K/10000m * 3 * 8.3 = 0.12
+c = k2 = 6960
+d = 9RR/5 Td^2 = 1.21e-8 * 2500 = about 300000 assuming Td is about 50K
+T = (+- sqrt ((br - c)^2 - 9RR/5 Td^2) + br + c) / 6R
+dP = aP / (+sqrt ((br - c)^2 - d) - br + c) dr
+x(t) = k3 exp((a ((c - b t) (-sqrt(b^2 t^2 - 2 b c t + c^2 - d) - b t + c) +
+               d log(sqrt((c - b t)^2 - d) - b t + c)))/(2 b d))
+x(t) = k3 exp((-a ((c - b t) (sqrt(b^2 t^2 - 2 b c t + c^2 - d) + b t - c) -
+               d log(sqrt((c - b t)^2 - d) - b t + c)))/(2 b d))
+dP = aP / (-sqrt ((br - c)^2 - d) - br + c) dr
+x(t) = k3 exp((a ((c - b t) (sqrt(b^2 t^2 - 2 b c t + c^2 - d) + b t - c) -
+               d log(sqrt((c - b t)^2 - d) - b t + c)))/(2 b d))
+k3 = exp(-59.2)   (I solved for 101325 kPa at r=0)
+
+f = c-bt
+x(t) = k3 exp ((a(f(-sqrt (ff-d) + f) + d log (sqrt (ff-d) + f)) / 2bd)
+x(0) = k3 exp ((a (c (-sqrt(c^2 - d) + c) +
+               d log(sqrt(c^2 - d) + c))) / 2bd)
+
+Desmos
+y\ =\exp (-59.2+a((c-bx)(-\sqrt{\left(bx-c\right)^2-d}-bx+c)+d\ln (\sqrt{(c-bx)^2-d}-bx+c))/(2bd))
+y=100(\sqrt{(-bx+c)^2-d}-bx+c)\ \cdot 0.02
+
+Actually it's T that's linear, not U.
+
+dT = -a dr
+dP = -gmP/RT dr
+
+T = br + c
+P = -gmP/(br+c) dr
+  = a P/(br+c) dr
+  = d (br+c)^(a/b)
+c = T(0) = L(1-A)/4DD
+P(0) = Ma g / As             (Ma = Mass of atmosphere, As = planet surface area)
+P(H) = 100 = d(bH+c)^(a/b)
+(100/d)^(b/a) = bH+c
+H = 1/b ((100/d)^(b/a) - c)
+  = 
+  
+  
+Chemistry algorithm
+Matm = Mass of atmosphere
+As = Surface area of planet
+Figure out which components are allowed based on temp and escape v
+Figure out proportion of thermosphere-absorbed photo power
+ - This is assumed to be everything below 100nm
+Find phase change altitudes for different components
+ - Where T/P phase change line crosses T/P atmosphere profile
+Figure out cloud proportions and albedos
+ - Cloud support is prop to density and square-to-cube of updraft speed
+Figure out air color and absorption
+ - Lookup table for selected gases
+Adjust pauses based on this info

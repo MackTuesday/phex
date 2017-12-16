@@ -1,0 +1,38 @@
+{
+  "name": "FenderitSecurity",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "You approach a restricted area of Soom Fenderit space. Passage "
+            "within %fenderitRestrictedSpaceRadius% light years of "
+            "%fenderitRestrictedSpaceCenter% is prohibited. Attempts to "
+            "trespass will be met with deadly force."],
+
+      ["P", "What's at %fenderitRestrictedSpaceCenter%?"],
+
+      ["N", "That is privileged information. Do not ask again."],
+
+      ["P", "Can you give me a hint?"],
+
+      ["N", "Leave. This is your final warning."],
+
+      ["P", "I have something important to do here. I'm stranded in this "
+            "part of the galaxy and I need to place scientific "
+            "instrumentation at %fenderitProbeCoords% so I might "
+            "find my way home. Can some exception be made in my case? (If "
+            "final warning has been given, this results in attack)"],
+
+      ["N", "(If final warning hasn't been given) We lack the "
+            "authority to make exceptions."],
+
+      ["P", "Who has it?"],
+
+      ["N", "You might inquire at the homeworld, but you will likely be "
+            "turned away."],
+
+      ["P", "Alright. I'll be on my way then."],
+
+
+      ["N", "You approach a- Icon! It's the Icon!"]
+    ]
+  }
+}

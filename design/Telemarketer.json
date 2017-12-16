@@ -1,0 +1,61 @@
+{
+  "name": "telemarketer",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello, this is Officer %playerName%. I'm responding to your "
+            "distress call. How can I help?"],
+
+      ["N", "*click* Hello?"],
+      
+
+      ["P", "Yes, I'm here."],
+
+      ["N", "Hello, my name is Bogzort Squeeblonk "
+            "and I'm with the Globdor Times. How are you today?"],
+
+
+      ["P", "Are you selling something?"],
+
+      ["N", "The Globdor Times has been the leading "
+            "news source for 79 bleenons and has won numerous awards, such as "
+            "the Zeekblop Excellence in Journalism Award and the Moox Tramdar "
+            "News Source of the Year Award. Tell me, do you follow the news?"],
+
+
+      ["P", "Are you in trouble or not? You shouldn't use the distress "
+            "channel unless you need help."],
+
+      ["N", "*click*"],
+
+
+      ["P", "Not interested. Goodbye."]
+
+
+      ["P", "Fine, thanks."],
+
+      ["N", "Great, glad to hear it. The Globdor Times has been the leading "
+            "news source for 79 bleenons and has won numerous awards, such as "
+            "the Zeekblop Excellence in Journalism Award and the Moox "
+            "Tramidon News Source of the Year Award. Tell me, do you follow "
+            "the news?"],
+
+
+      ["P", "Yes."],
+
+      ["N", "Which news sources do you use?"],
+
+      ["P", "My favorite is the Piss Off Gazette."],
+
+
+      ["N", "Uh huh. Buh-bye. *click*"],
+
+
+      ["P", "No."],
+
+      ["N", "So you don't care to know about important interstellar "
+            "issues and events?"],
+
+      ["P", "You can't guilt me into subscribing. Goodbye."],
+    ]
+  }
+}

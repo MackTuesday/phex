@@ -1,0 +1,31 @@
+{
+  "name": "choxxPartyBus",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello, this is Officer %playerName%. I'm responding to your "
+            "distress call. How can I help?"],
+
+      ["N", "Uh, yeah. Our bus has a flat tire."],
+      
+
+      ["P", "Flat tire? Your bus has tires? In space?"],
+
+      ["N", "Shut up, fag. Are you gonna help us or not?"],
+
+
+      ["P", "That's how you talk to someone who's helping you?"],
+
+      ["N", "Just, are you gonna help or what?"],
+
+
+      ["P", "OK, I can tow you to the nearest base."],
+
+      ["N", "No, we have a spare."],
+
+
+      ["P", "A spare tire? ."]
+
+
+    ]
+  }
+}

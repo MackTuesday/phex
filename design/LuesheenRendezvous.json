@@ -1,0 +1,120 @@
+{
+  "name": "luesheenRendezvous",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Hello %playerName%. We're glad you made it."],
+
+      ["P", "What the hell was that all about?"],
+
+      ["N", "An obscure Fenderit prophecy. It foretells an Icon of "
+            "Tragedy who appears in a burst of light and commits some "
+            "atrocity. An avatar destroys the Icon, bringing about "
+            "what they call "
+            "the Age of Justice, an era in which no crime goes "
+            "unpunished."],
+
+      ["P", "... Well that's just fucking great."],
+
+      ["N", "Indeed."],
+
+      ["P", "Where did this come from? I talked to the Fenderit myself. If "
+            "they were foaming at the mouth about some prophecy, they never "
+            "gave any indication."],
+
+      ["N", "We are also surprised. This prophecy is all but forgotten "
+            "among the Fenderit."],
+
+      ["P", "I'm surprised that you're surprised. You Luesheen seem capable "
+            "of gaining whatever intelligence you want."],
+
+      ["N", "Even we run a slight risk of detection if we pry too deeply. It "
+            "isn't worth destabilizing our relationship."],
+
+      ["P", "What about the destruction of an entire civilization?"],
+
+      ["N", "That's absurd except in retrospect."],
+
+      ["P", "So now what? I guess I need to clear my name after all."],
+
+      ["N", "Moot. Now that their Age of Justice is within reach, "
+            "the Fenderit will pursue it blindly."],
+
+      ["P", "I'm not running. I haven't done anything wrong."],
+
+      ["N", "Normally we'd tell you to check your ego, but we doubt "
+            "you could evade the Fenderit if you tried... Their next target "
+            "will be your space station. We're sending over a propulsion "
+            "module that will make your station mobile. We suggest you use it "
+            "to get out of Choxx space. They'll be hunting you too. At least "
+            "in your station you have a better chance of defending yourself."],
+
+
+      ["P", "Why would the Choxx hunt us?"],
+
+      ["N", "They're cronies of the Fenderit establishment. They might also "
+            "be offended by your alleged crime."],
+
+      ["P", "Those thugs? Why should they care?"],
+
+      ["N", "They're thugs, not monsters."],
+
+
+      ["P", "Alright. Thanks a lot for this. Is there anything more you can "
+            "do to protect me?"
+
+      ["N", "We aren't protecting you. We can't protect you."],
+
+      ["P", "I get it. You don't want to get your hands dirty."],
+
+      ["N", "Our hands are already dirty. We soil them despite the futility "
+            "of it."],
+
+      ["P", "Futility? What do you mean?"],
+
+      ["N", "We prevent what tragedy we can, but the worst of it is "
+            "beyond our control."],
+
+      ["P", "Did you know Ssh would be wiped out?"],
+
+      ["N", "We foresaw a catastrophe in the near future. We couldn't "
+            "determine any specifics."],
+
+      ["P", "Why didn't you warn anyone?"],
+
+      ["N", "It was inevitable; a vague warning would have made it worse."],
+
+      ["P", "Do you foresee anything else? Anything about me?"],
+
+      ["N", "Upheaval. You probably will survive it."],
+
+      ["P", "What can I do to make sure of that?"],
+
+      ["N", "We don't know."],
+
+
+      ["P", "How do you tell the future? Does it have to do with cross-time "
+            "communication?"],
+
+      ["N", "Approximately. It also involves computer simulation."],
+
+      ["P", "Fascinating. Tell me more."],
+
+      ["N", "You already know us as deeply as we can allow."],
+
+      ["P", "I guess I should be on my way. What will you be doing?"],
+
+      ["N", "Planning, as always."],
+
+      ["P", "Planning for what?"],
+
+      ["N", "Contingencies."],
+
+      ["P", "I don't suppose you could be more specific."],
+
+      ["N", "Not without lying."],
+
+      ["P", "Until next time."]
+
+    ]
+  }
+}

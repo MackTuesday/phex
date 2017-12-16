@@ -1,0 +1,60 @@
+{
+  "name": "pirateAmbush",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello, this is Officer %playerName%. I'm responding to your "
+            "distress call."],
+
+      ["N", "Hello, Officer %playerName%. How about you give me all your shit "
+            "or I'll take it anyway? And murder your bitch ass?"],
+
+
+      ["P", "Sorry, my hold is empty."],
+
+      ["N", "Bullshit. Try again."],
+
+
+
+      ["P", "No, it really is empty."],
+
+      ["N", "Fine, we'll play it your way."],
+
+
+      ["P", "Really? You prey on good samaritans? That's really horrible."],
+
+      ["N", "Heh, no. It's fuckin great. I get so much shit for free you "
+            "wouldn't believe it. Now shut up and hand it over."],
+
+
+      ["P", "You're going down."],
+
+
+      ["P", "I don't think so."],
+
+      ["N", "Fine, it's your... death... ceremony."],
+
+      ["P", "You mean \"funeral\"?"],
+
+      ["N", "Shut up, fag."]
+
+
+      ["P", "Alright, I don't want trouble. I'm jettisoning everything. "
+            "Let it go at that. I'm well armed."],
+
+      ["N", "Haha, come back anytime, sucker!"],
+
+
+      
+      ["N", "(Pirate hails player, begging for mercy) Please don't kill us! "
+            "We'll give you everything we have!"],
+
+
+      ["P", "Alright, drop everything."],
+
+      ["N", "OK. OK. Just don't kill us."],
+
+
+      ["P", "Sorry, you fucked with the wrong person."]
+    ]
+  }
+}

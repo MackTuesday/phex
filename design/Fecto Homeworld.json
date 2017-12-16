@@ -1,0 +1,307 @@
+{
+  "name": "fectoHomeWorld",
+  "dialog": {
+    "npcLines": [
+      "The neophyte appears, fresh from the bittersweet parting, instinct "
+      "and trepidation amix.",
+
+      "You are Neophyte, now greetings conclude.",
+
+      "Audience is found waiting.",
+
+      "We trust you feed well. We dislike defense.",
+
+      "The strata diffuse. It is sublime.",
+
+      "Yes.",
+
+      "Our ancestors guarded against the dun because the dun came from above. "
+      "Our color warned, our flesh punished, but the dun shrugged. "
+      "Now we shrug, even as our kernel shivers.",
+
+      "Other clades inform our high instinct. Your prints are like caustics "
+      "on the bed. Ours mark the understory. "
+      "We cannot mark like you, but we can track. "
+      "Most never learn the understory. It is childlike.",
+
+      "Like a child, it annoys and charms in turn. One tolerates chaos "
+      "as one nurtures.",
+
+      "Consonance.",
+
+      "...Close.",
+
+      "The calm of night chatters.",
+
+      "We court the stream. We feast on the green mass. We leap from danger. "
+      "Our color warns and "
+      "our flesh punishes. If we leap into mire, we think a poison, then we "
+      "spray. Our ancestors "
+      "could not choose. Then the army found the leader, and we "
+      "leapt to the sky.",
+
+      "Close.",
+
+      "We fool the dun with the lip-curtain.",
+
+      "Danger primes us, then we have choices of choices. The mind and the "
+      "sac synergize.",
+
+      "The ranks from which we choose.",
+
+      "The self.",
+
+      "Context suffices.",
+
+      "We need intermediaries.",
+
+      "Perhaps you would call it \"orthogonal\".",
+
+      "The liquid color drips like dew. The bright shoots through the bold. "
+      "The full is flat and the true-full whorls. We watch as the watched."
+
+      "It is childlike.",
+
+      "I speak for us.",
+
+      "We are eyes.",
+
+      "It is childlike.",
+
+      "What is your blood color?",
+
+      "We know you.",
+
+      "A fearsome color. Be proud.",
+
+      "No. Your lips betray you.",
+
+      "Clear. We bow. Please, we never asked.",
+
+      "Then please, we never asked.",
+
+      "Why do you lie about your color?",
+
+      "Yes, yes, it is childlike. You understand.",
+
+      "Yes",
+
+      "The Luesheen are transparent. They hide in shame. We share love, but"
+      "it is childlike.",
+
+      "We deduce.",
+
+      "The amalgam needs brighter color, then we paint its wings. They are "
+      "many "
+      "but not childlike. They know pain.",
+
+      "Kee Pensette tracks like us but marks like you. It calls through the "
+      "god field. It will never die.",
+
+      "As a star never dies.",
+
+      "Fenderit forget love. They know pain. They bicker in the mire. It "
+      "cannot last.",
+
+      "They are stuck in the mire but can't spray. They peek from the "
+      "understory. It will always be this way.",
+
+      "They cannot last, but they are the moist breath to our desert fly. We "
+      "are blind to ourselves.",
+
+      "We are blind to ourselves.",
+
+      "We do not leap or spray. We wait.",
+
+      "We feast beside you.",
+
+      "You will never die.",
+
+      "You don't need it.",
+
+      "Yes, it is important.",
+
+      "Do not fret. You still possess it.",
+
+      "It was not near you, yet you possessed it. You possess it and it will ",
+      "always be with us.",
+
+      "You don't need it.",
+
+      "It is not nearby.",
+
+      "It is where you left it.",
+
+      "We never took it.",
+
+      "You don't need it, and it will never leave our space.",
+
+      "We didn't want to paint it.",
+
+      "We weren't going to paint it.",
+
+      "We were going to please it.",
+
+      "We did not.",
+
+      "It wasn't painted.",
+
+      "It exudes paint.",
+
+      "Everything in the universe is paint, except it.",
+
+      "...Paint."
+    ],
+    "playerLines": [
+      "Hello. I'm Officer %playerName% of the Arth Sector Police Force. I'm "
+      "pleased to meet you.",
+
+      "I'm not sure how to greet you. Shall I tell you my name?",
+
+      "Um, the neophyte seeks audience.",
+
+      "I'm here to visit and converse. Maybe some trade is also possible.",
+
+      "Does that mean you would also like to talk?",
+
+      "I'm curious about new cultures and biologies. Is there anything you'd "
+      "like to share about yours?",
+
+      "Your style of speech is unusual and hard for me to understand. Do "
+      "you understand me?",
+
+      "Are you saying you look down on people who don't \"learn the "
+      "understory\"?",
+
+      "What do you mean by \"childlike\"?",
+
+      "What is it that you nurture?",
+
+      "Consonance? Are you referring to peace? Harmony?",
+
+      "What exactly do you mean by consonance?",
+
+      "How does your biology work? How did you evolve?",
+
+      "The green mass. Are those plants?",
+
+      "You're herbivores? Then why the sharp teeth?",
+
+      "What do you mean by, \"We think a poison\"?",
+
+      "What army do you mean?",
+
+      "And the leader?",
+
+      "You speak figuratively so often. What if you want to refer "
+      "to something literally?",
+
+      "How do you manage technical language with other cultures? It requires "
+      "much more precision than other subject matter.",
+
+      "Do you have a concise mathematical notation?",
+
+      "Do you wonder what the nature of reality is, why there is anything "
+      "at all?",
+
+      "Right. I didn't expect that to make any sense.",
+
+      "Why do you say \"we\" instead of \"I\"?",
+
+      "Where are your eyes?",
+
+      "I don't understand. Could you clarify?",
+
+      "Is there anything you'd like to know about us?",
+
+      "Do you mean the color of our blood, literally?",
+
+      "It's red.",
+
+      "It's blue.",
+
+      "It's green.",
+
+      "It's clear.",
+
+      "I'd rather not say.",
+
+      "It's alright. No harm done.",
+
+      "I suppose I was feeling playful.",
+
+      "What do you think of the Luesheen?",
+
+      "You've seen the Luesheen?",
+
+      "What do you think of Ssh?",
+
+      "What do you think of Kee Pensette?",
+
+      "They're immortal?",
+
+      "What do you think of the Soom Fenderit?",
+
+      "What do you think of the Clinkltook?",
+
+      "What do you think of the Choxx?",
+
+      "Why do you pester the Choxx?",
+
+      "What do you think about me?",
+
+      "Do you know anything about a Luesheen probe that went missing from "
+      "your space?",
+
+      "You don't understand! It's extremely important! I can't get home "
+      "without it!",
+
+      "Yes, it's important! So where is it?",
+
+      "No, I don't possess it. You seem to have it.",
+
+      "I need it to be where it was. Besides, how can you say I "
+      "possess it if you won't return it to me?",
+
+      "No! I really do need it! You must give it to me!",
+
+      "No! I really do need it! Do I need to threaten violence?",
+
+      "Where is it?",
+
+      "When did you put it back?",
+
+      "No, I distinctly remember you saying I didn't need it, and \"It will "
+      "always be with us\".",
+
+      "Why didn't you just tell me you wanted to paint it?",
+
+      "Then why did you to paint it?",
+
+      "Then how did it get painted?",
+
+      "I think you're mistaken. It was clearly painted the last time I saw ",
+      "it.",
+
+      "You mean it painted itself? But it's incapable of that."
+
+      "Right. This has been a fascinating conversation. Thanks for your time."
+
+    ],
+
+    "interactiveFormat": [
+
+      ["P", "Tell me a good joke."],
+
+      ["N", "The joke wasn't a joke, but then it dripped!"],
+
+
+      ["P", "Hi. What can I do for you?"],
+
+      ["N", "Paint."],
+
+      ["P", "What? [Then the other ship disappears.]"]
+
+    ]
+  }
+}

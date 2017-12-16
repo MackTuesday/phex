@@ -1,0 +1,68 @@
+{
+  "name": "fenderitCrusaders",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Make your preparations, Icon! The Age of Justice is at hand!"],
+
+      ["N", "(Incoming tightbeam from Luesheen vessel: Run. Meet us at "
+            "%playerFleeAgentsCoords%, planet %playerFleeAgentsPlanet%.)"],
+
+      ["N", "When Kellist traveled the fen-moss --"],
+
+
+      ["N", "We will hear your final words."],
+
+      ["P", "Look. Please stop for a moment. How can you be so sure I'm "
+            "your Icon? You didn't give me a trial. You didn't give me a "
+            "chance to defend myself."],
+
+      ["N", "The Seers have deliberated and their word is truth. There is "
+            "nothing more to discuss."],
+
+      ["P", "Haven't you ever stopped to consider that your Seers might be "
+            "wrong? You're about to commit murder with nothing more than "
+            "their word to justify it."],
+
+      ["N", "The law stays our hand when the ignorant speak ill of the Seers, "
+            "even as our blood boils. But you, you provide "
+            "an exception -- one we relish."],
+
+
+      ["N", "We will hear your final words."],
+
+      ["P", "Haven't you heard? Surely you received that broadcast from the "
+            "Ssh artifact, the one that absolves me of wrongdoing and lays "
+            "the blame squarely at the feet of the Fenderit government?"],
+
+
+      ["N", "We've seen this propaganda, this transparent attempt "
+            "to strip the Seers of their influence. Yes, we've heard. And "
+            "now, thanks to your depravity, your insidious scheming, one "
+            "quarter of our populace stand in unlawful revolt and have "
+            "therefore been sentenced to die. Thanks to you and your filthy "
+            "conspirators, the Fenderit face mass executions on an "
+            "unprecedented scale."],
+
+      ["P", "... Now let's get this straight. You think I'm responsible for "
+            "the broadcast? Is there any doubt about its origin, that the "
+            "signal "
+            "originated from the artifact your superiors have been trying so "
+            "hard to unlock? You're saying somehow I achieved what the "
+            "Fenderit government was unable to do?"],
+
+      ["N", "You destroyed an entire civilization. You're doubtlessly "
+            "capable of anything."],
+
+      ["P", "Alright, even if all that is true -- and I'm not saying it is -- "
+            "does it really need to be that bad for your people? "
+            "Maybe peace is more important than upholding a law that would "
+            "lead to so much death."],
+
+      ["N", "Only a law upheld is a law! Only a law upheld can bring "
+            "justice. And without justice, peace is a *lie*. Now die. Scum."],
+
+
+      ["N", "Not interested."]
+    ]
+  }
+}

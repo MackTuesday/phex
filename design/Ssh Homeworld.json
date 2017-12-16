@@ -1,0 +1,499 @@
+{
+  "name": "sshHomeStation",
+  "entryStates": [],
+  "localVariables": {"init": true, "requestInfo":false},
+  "dialog": {
+    "npclines": [
+      "Hey, welcome to Enemed Station. What can I do for you?",
+
+      "Yeah, Director Clingocc told us you'd be coming. Did you finish the "
+      "patrol?",
+
+      "Yeah, Director Clingocc told us you'd be coming. Did you bring the "
+      "goods?",
+
+      "Awesome.",
+
+      "Oh. That works, I guess.",
+
+      "Ask away.",
+
+      "That's cool. Just come back when you have enough.",
+
+      "Have you checked your star charts?",
+
+      "Hm, well let me take a look at your numbers... Mmm. Your charts don't "
+      "extend more than a few hundred light years from your home system, and "
+      "they don't match anything we have in ours. I'd say you're at least "
+      "3000 light years from home."
+
+  "Well, shit. What am I going to do?",
+
+      "I'm really sorry, "
+      "I don't know what to tell you. The Luesheen might though. "
+      "They're really helpful. Usually.",
+
+      "They're the reason why this region is as peaceful as it is. "
+      "They're very powerful but kind, and they won't let anyone make "
+      "war. They do let some bullshit happen, though.",
+
+      "Fuckin piracy. There's this species called the Choxx. Bunch of "
+      "assholes. Most of the pirates are choxx. "
+      "The Luesheen try to get the Choxx government to crack down on it, "
+      "but they don't do enough to get real results.",
+
+      "They're pretty secretive. They never show their faces and "
+      "they hire people from other civilizations to serve as their "
+      "diplomats. But even the diplomats don't get to see them.",
+
+      "They also won't let anyone expand too quickly.",
+
+      "It's unsustainable in the long run. Eventually "
+      "people compete for space and resources. Things tend "
+      "to get ugly when that happens, as you probably know.",
+
+      "Steady, flat growth is allowed.",
+
+      "Yeah that definitely happens. But we're pretty sure that purely "
+      "religious conflict is "
+      "self-limiting if the parties involved are able to get away "
+      "from each other. We're also pretty sure that "
+      "war is almost never based purely on religion. "
+      "Usually religious conflict is tribalism or conquest in "
+      "disguise.",
+
+      "The Luesheen run simulations. They do a lot of that kind of thing.",
+
+      "They don't seem to be.",
+
+      "No one knows what they look like. They get "
+      "outsiders to handle their diplomacy, and even they never "
+      "actually get to see one.",
+
+      "No one knows.",
+
+      "We're transmitting a map of nearby space. You can see from "
+      "the annotations ",
+
+      "where the Luesheen reside, and ",
+
+      "that there are several other civilizations in the region. They're "
+      "called Kee Pensette, the Clinkltook, the Luesheen, the Soom "
+      "Fenderit, "
+      "the Choxx, the Fecto, and the Ixquaplorn.",
+
+      "Sure.",
+
+      "We entered this reality only a few years ago. We jumped out of "
+      "the last universe when our home system was surrounded by "
+      "a bunch of big-ass empires. They were going to fight over our "
+      "resources like we weren't even there.",
+
+      "We have our ways.",
+
+      "Ways. Please don't pry.",
+
+      "I hear you. But we really have to keep it secret. It wouldn't help you "
+      "anyway, I swear. Even the Luesheen "
+      "don't see "
+      "how to improve on it or use it for anything different, and they're "
+      "wicked smart.",
+
+      "Heh, it's a lot better than the last.",
+
+      "We have all different kinds of people, left over from dead races. "
+      "We've had to escape "
+      "several universes and we usually pick up refugees fleeing whatever "
+      "local xenocides there happen to be.",
+
+      "They add up when you've been running as long as we have.",
+
+      "At least 1700 years. Our records don't go back any further.",
+
+      "That's just \"Kee Pensette\". There's no \"the\". They're "
+      "eusocial -- what you might call a \"hive mind\". Their "
+      "homeworld orbits a frickin pulsar! Crazy shit.",
+
+      "You really should visit these different people if you want to know "
+      "details.",
+
+      "Pssh. What would be the fun in that?",
+
+      "The Clinkltook are mats of grass in symbiosis "
+      "with bugs "
+      "that allow them to float on water. They catch food underwater with "
+      "their roots. They're super uptight.",
+
+      "They're rivals with the Luesheen. There's kind of a cold war but not "
+      "really. We hate their fuckin guts. Like seriously. We fucking hate "
+      "them.",
+
+      "Not really anything, which is weird because it's really not like us "
+      "to get all bitchy like this. We just... hate them.",
+
+      "They're a bunch of dicks.",
+
+      "They're stupid bullies. The Luesheen hold them in "
+      "check to some extent, but we think they should do more.",
+
+      "The Fecto are kinda creepy. But they did paint this station as a "
+      "sign of "
+      "friendship, so... Anyway they see bright colors as a sign of strength. "
+      "Talk to them a bit and you'll understand why.",
+
+      "The Choxx fight each "
+      "other about what's the best sports team. The "
+      "Fenderit nip at each other, but they don't really get in big fights. "
+      "We just finished a little spat with our neighbors, the Clinkltook. "
+      "Both of us wanted to colonize the same planet. "
+      "Otherwise things are pretty mellow around here.",
+
+      "Yes. They are a bunch of assholes.",
+
+      "Anytime. Good luck."
+    ],
+
+    "playerlines": [
+      "I'm Officer %playerName% of the Arth Sector Police Force.",
+
+      "I'm hoping you might be able to answer some questions for me.",
+
+      "Yes. There were pirates at planet %sshPatrolPlanetNo% and we dealt "
+      "with them.",
+
+      "No, but we managed to gather the materials you want repaid.",
+
+      "I believe this is enough.",
+
+      "Oh, I have something but it doesn't look like it's enough.",
+
+      "Sorry, I don't have anything."
+
+      "I've found what I came for and I intend to return home as soon "
+      "as possible. You might already know that I don't know where I "
+      "am and my means of return are lost. Do you have any suggestions?",
+
+      "My astrogation system isn't designed for travel beyond my home sector. "
+      "It can't "
+      "tell me anything.",
+
+      "Who are the Luesheen?",
+
+      "What sort of brutality do they tolerate?",
+
+      "What else can you tell me?",
+
+      "Why is it illegal?",
+
+      "But some growth is allowed?",
+
+      "Where I come from, religion is the main reason why people fight.",
+
+      "How do you know all this?",
+
+      "Are the Luesheen religious?",
+
+      "What else can you tell me about the Luesheen?",
+
+      "Why are the Luesheen so secretive?",
+
+      "Where can I find the Luesheen?",
+
+      "Do you have other information about this region?",
+
+      "Do you have time to answer questions about these other "
+      "civilizations?",
+
+      "Tell me about yourselves.",
+
+      "How does one flee a universe?",
+
+      "And what are those ways?",
+
+      "It's just that I might be able to adapt that technology to "
+      "get back home.",
+
+      "How do you like this one?",
+
+      "Tell me about your biology.",
+
+      "Is xenocide that common? I know of only one case.",
+
+      "How long have you been running?",
+
+      "Tell me about the Kee Pensette.",
+
+      "Can you tell me more?",
+
+      "But you must have databases you can just beam over.",
+
+      "Tell me about the Clinkltook",
+
+      "Tell me about the Soom Fenderit.",
+
+      "Did they do something terrible or do you simply hate them?",
+
+      "Tell me about the Choxx.",
+
+      "Tell me about the Fecto.",
+
+      "Are there any conflicts in the region?",
+
+      "OK, thanks. Those are all the questions I have for now."
+    ],
+
+    "interactiveFormat": [
+      ["P", "Tell me a good joke."],
+
+      ["N", "What happened to the choxx who lost his sports helmet?"],
+
+      ["P", "OK, what?"],
+
+      ["N", "He was beaten within an inch of his life."],
+
+      ["P", "That's supposed to be funny?"],
+
+      ["N", "Any joke that ends with a choxx getting his ass kicked is "
+            "fucking hilarious."],
+
+
+      ["P", "What do you think is the nature of reality? Why is there "
+            "anything at all?"],
+
+      ["N", "None of us profess to know, but generally we don't think "
+            "there's any real reason. It just is."],
+
+
+      ["P", "That sounds a bit bleak."],
+
+      ["N", "It's bleak as hell, or it would be, if not for God's love."],
+
+      ["P", "You believe in God, but you also think it's all pointless? "
+            "You don't think God has a plan?"],
+
+      ["N", "A plan involves a sequence of events, but we think time is "
+            "meaningless at God's, uh, stratum of existence. Besides, "
+            "God has no agency. It all simply is. That includes God."],
+
+      ["P", "What difference does God's love make, if God is powerless?"],
+
+      ["N", "God knows us all intimately. It's nice to know that no matter "
+            "what, you're never alone in your pain."],
+
+      ["P", "Why do you think God's powerless, anyway?"],
+
+      ["N", "Because God's either impotent or a total jackass. Or not there."],
+
+
+      ["P", "But there's so much beauty in the universe. Maybe God is "
+            "powerful *and* not a jackass."],
+
+      ["N", "If that's how you see it, cool. That's your thing. We've seen "
+            "beauty and horror in equal measure. We don't see how a God in "
+            "charge of this "
+            "mess could possibly give a shit about us."],
+
+      ["P", "But the horror you've seen has all been caused by sapients, "
+            "right? God didn't do any of that."],
+
+      ["N", "God didn't do anything *about* it either. When God stands by and "
+            "watches the despicable shit some of us get up to, which would "
+            "you rather "
+            "believe: God can help but won't, or God would help but can't? "
+            "Besides, there's also the natural tragedies, like the "
+            "nerve disease that slowly killed my best friend's mother, or "
+            "what happened to the Tenchatla."],
+
+      ["P", "What happened to them?"],
+
+      ["N", "They had the bad luck of emerging in a system near a "
+            "supergiant star. They were just figuring out how stars worked "
+            "when it went supernova. It made smog of their atmosphere and "
+            "destroyed their ozone layer. The hundred million who survived "
+            "the "
+            "initial event died slowly."],
+
+      ["P", "Did you pick any of them up? Make them part of your collective?"],
+
+      ["N", "This is archaeological knowledge. We weren't "
+            "around for it."],
+
+
+      ["P", "Do you pray?"],
+
+      ["N", "We try to spiritually connect to the Everything that God is, "
+            "and some of us talk to God, but most of us feel that words get "
+            "in the way."],
+
+      ["P", "Some humans use psychoactive chemicals to enhance their "
+            "spiritual exploration. Do ssh "
+            "do anything like that?"],
+
+      ["N", "That sounds bizarre! Some of us are into lucid dreaming, "
+            "but no, we don't have any such chemicals. "
+            "How did humans discover them?"],
+
+      ["P", "Some were found naturally on our original homeworld. The rest "
+            "are synthetic derivatives."],
+
+      ["N", "*Naturally?* You come from a very strange planet. No offense. "
+            "So humans don't live on their original homeworld anymore?"],
+
+      ["P", "For a long time we didn't. Humans were driven from it "
+            "centuries ago and we somehow lost our historical records. We "
+            "lost "
+            "all our technology too. But some decades ago we rediscovered "
+            "faster-than-light propulsion, and since then we've "
+            "recolonized it."],
+
+      ["N", "What was your homeworld called?"],
+
+      ["P", "Earth."],
+
+      ["N", "Earth. Why did your people leave?"],
+
+      ["P", "The stars in our region of space started throwing out huge "
+            "flares. "
+            "All the planets were getting roasted. Whole species were fleeing "
+            "their territories. Eventually Earth's sun flared "
+            "too. We almost went extinct."],
+
+      ["N", "Did you ever find the cause?"],
+
+      ["P", "It was an attack from a crystalline species we didn't even know "
+            "was sentient. We were using them as fuel for our starships."],
+
+      ["N", "Ohh, right. Those poor guys."],
+
+      ["P", "You've heard of them?"],
+
+      ["N", "Yeah, they're all over the place. Everywhere we've gone we've "
+            "found them. They call themselves \"The Only Race\"."],
+
+      ["P", "That sounds familiar... Why does their name sound so arrogant?"],
+
+      ["N", "For a long time they were the only sapients in the galaxy. "
+            "The name's left over from those times."],
+
+      ["P", "It sounds more lonely than arrogant now."],
+
+      ["N", "Yeah."],
+
+      ["P", "Anyway, the attack was still on the next time we became "
+            "spacefaring."]
+
+      ["N", "The same attack? Centuries later?"],
+
+      ["P", "Yeah."],
+
+      ["N", "Damn, that is mindblowing. So the stars are still flaring?"],
+
+      ["P", "That's the saddest part of all. We stopped the attack, but the "
+            "only way was to destroy the source, which turned out to be their "
+            "homeworld."],
+
+      ["N", "The whole planet?"],
+
+      ["P", "We had no other way, and our second home system was about to "
+            "be destroyed too."],
+
+      ["N", "That sucks so bad. That really sucks. I'm sorry."],
+
+      ["P", "So are we."],
+
+      ["N", "So how did you destroy an entire planet?"],
+
+      ["P", "We used a bomb we found in ruins left over from the previous "
+            "era."],
+
+      ["N", "Shit, I hope we don't have any planet-destroying bombs just "
+            "sitting around here."],
+
+
+      ["P", "I have the Kee Pensette terraforming equipment."],
+
+      ["N", "Awesome! We're coming to pick it up now. All of the good "
+            "planets are taken, so this will be really helpful."],
+
+
+      ["P", "It's too bad no one around here was willing to share."],
+
+      ["N", "Yeah, that's pretty much the way it goes. Most civilizations "
+            "are pretty territorial. The ones that aren't tend to get eaten."],
+
+      ["P", "Eaten?"],
+
+      ["N", "Subsumed, dissolved, conquered... or literally eaten. That's "
+            "what happened to the Gwantz."]
+
+
+      ["P", "What were the Gwantz like?"],
+
+      ["N", "Great big orange quadrupeds. They had a single panoramic eye "
+            "that wrapped around their entire head. They also had a sexual "
+            "fetish involving eutectic mixtures. Yeah, I don't get it "
+            "either."],
+
+
+      ["P", "What kind of environment works best for you?"],
+
+      ["N", "An oxygen mix. The other components depend on how much of a "
+            "greenhouse effect we want."],
+
+      ["P", "What about temperature?"],
+
+      ["N", "We go for cooler planets because in our habitats, it's easier to "
+            "make heat than pump it away."],
+
+      ["P", "What are you doing with this planet?"],
+
+      ["N", "The temperature's a bit *too* cold and the atmosphere is methane "
+            "and ammonia. So we're running fusion plants on a modified CNO "
+            "cycle. In goes carbon and nitrogen, out comes energy and oxygen. "
+            "The components you delivered are catalysts we use to help with "
+            "fusion reactions."],
+
+      ["P", "It seems like you have good life support technology. Why "
+            "go to the trouble of living planetside?"],
+
+      ["N", "A homeworld is every race's birthright, and we've never had one. "
+            "We're pretty resentful about that. I mean, we know life isn't "
+            "fair, but we're not about to bend over and take it if we don't "
+            "have to. So we're gonna fucking get what we deserve. "
+            "Then we'll think about how to move forward."],
+
+
+      ["P", "But if you're concerned about survival, you shouldn't "
+            "be putting all your eggs in one basket."],
+
+      ["N", "No offense, but we don't care what you think about "
+            "this. We'll survive on our own terms or not at all."],
+
+      ["P", "I think I can imagine how you feel. I just hope your attitude "
+            "doesn't backfire."],
+
+      ["N", "It's a risk we're willing to take."]
+
+
+      ["N", "Officer %playerName%. This isn't the best time!"],
+
+      ["P", "I know, but I, I wanted to say... "],
+
+      ["N", "I don't think you did it. You'd have had nothing to gain from "
+            "it. Now if you don't mind, we're all fiendishly busy. Goodbye."]
+    ],
+
+    "tree": [
+        "init",
+        [[0], [[0,1], {"init":false, "requestInfo":true}]],
+        [
+          "requestInfo",
+          [
+
+          ],
+          []
+        ]
+      ]
+    }
+  }
+}

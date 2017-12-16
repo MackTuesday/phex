@@ -1,0 +1,27 @@
+{
+  "name": "choxxHomeworld",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Yeah, what's up."],
+
+      ["P", "Hello, I'm new to the area and I was just curious about your "
+            "people."],
+
+      ["N", "Right. You're curious about my people. Coool. Whaddyou wanna "
+            "know."],
+
+      ["P", "Uh, if this is a bad time, I can come back..."],
+
+      ["N", "No, no, this is a great time. I love talking to fagtards like "
+            "you."],
+
+      ["P", "What's with the attitude?"],
+
+      ["N", "You talk like a fag, that's what."],
+
+      ["P", "OK then. You have yourself a fantastic day."],
+
+      ["N", "Fuck you."]
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "name": "SoomFenderit",
+  "dialog": {
+    "npclines": [
+      "Hello there. Officer %playerName%, I presume?",
+
+      "Ha, word gets around fast. What can I do for you?",
+
+      "A visit! That sounds splendid. Was something in particular on your "
+      "mind?",
+
+      "As the most mature civilization in this part of space, we see it as ",
+      "our duty to uphold peace and harmony, and to exemplify ",
+      "the proper conduct of a spacefaring civilization. ",
+      "The Soom Fenderit lead this region in arts and sciences. Style and ",
+      "technology that appear in the works of other species can be "
+      "traced ",
+      "directly to the Soom Fenderit.",
+
+      "Yes, the Luesheen do love the limelight. It would be vulgar to "
+      "upstage them, so we let them show off. They're harmless. We don't "
+      "mind that the others ",
+      "look up to them.",
+
+      "That's part of the attraction! Don't you see? The mystery makes them ",
+      "irresistible.",
+
+      "A picophage destroyed most of our historical records about "
+      "3000 years ago, but archaeological evidence indicates we've been "
+      "in space for over 40,000 years.",
+
+      "Fenderit come from large savannah dwellers. Their primary food source "
+      "was a "
+      "mobile fungoid lifeform. As millenia passed, these fungoids "
+      "developed increasing intelligence and more clever ways to avoid "
+      "capture. Our ancestors gained intelligence too, and a kind of arms "
+      "race ensued with each genus challenging the other to improve their "
+      "strategies and tactical skill. Eventually fenderit won the race "
+      "because we "
+      "developed language. The fungoids' only method of sharing information "
+      "was genetic, which meant knowledge took at least a generation to "
+      "spread through their communities."
+
+      "Our ancestors almost eradicated them. To their credit, they secured "
+      "just enough genetic information to save the fungoids from extinction. "
+      "Fenderit keep a few members of their species sequestered for the "
+      "educational benefit "
+      "of "
+      "the general public.",
+
+      "No, nothing so heartless! Their every need is attended. They want for "
+      "nothing.",
+
+      "I assure you, the fungoids do not understand such things "
+      "as we do. They're doing perfectly well.",
+
+      "What else would you like to know?",
+
+      "Heh, such a scrappy bunch, no? Ever scratching and scrambling to "
+      "survive. "
+      "Life has been so hard for them. One has to wonder why "
+      "they and no one else have such troubles.",
+
+      "That isn't to say it's their fault, or they must have done "
+      "something to deserve their misfortune. I'm just saying it's odd, "
+      "that's all.",
+
+      "Be careful with Kee Pensette. They don't appreciate honesty and "
+      "integrity like we do. They'll tell you what you want to hear, then "
+      "stab you in the back. Show no weakness with them.",
+
+      "On several occasions. Most recently they promised to build the "
+      "Fenderit a "
+      "desalination plant for one of our new colonies. The construction "
+      "stalled halfway through, and it wasn't until "
+      "thousands of our people had died of thirst that they reneged on the "
+      "deal! And they had the gall to expect payment! I'll never understand "
+      "why our leaders keep giving them our business.",
+
+      "I will forgive that question. We still grieve for them.",
+
+      "Do you have any other questions?",
+
+      "They like to take credit for our advances in the arts and sciences. "
+      "It's fine, they're harmless. We don't mind that the others look up to "
+      "them.",
+
+      "Our dear Choxx are a bunch of rascals, but they mean no harm. They "
+      "certainly show considerable patience in their dealings with the "
+      "Luesheen, who try to pin blame on them for pirate activity near "
+      "their territory. "
+      "Yes, they suffer a rogue element. What civilization doesn't?",
+
+      "Our rogues are rather different. I'd rather not go into it.",
+
+      "Our relations with the Clinkltook have never been close. They don't "
+      "value cross-cultural relationships like you and I do.",
+
+      "They speak so cryptically, they must be hiding something. Don't you "
+      "agree they would speak plainly if they had nothing to hide?",
+
+      "Indeed.",
+
+      "Well yes. Every organization does. We think the Fecto are hiding ",
+      "something rather more insidious than most do.",
+
+      "I suppose we'll have to agree to disagree.",
+
+      "You're a delightful person and I'm sure we're going to be good "
+      "friends.",
+
+      "You are a valued friend and ally."
+    ],
+    "playerlines": [
+      "How did you know?",
+
+      "I just wanted to visit and learn more about this part of the galaxy.",
+
+      "I'd like to ask you some questions about your yourselves.",
+
+      "What can you tell me about your culture?",
+
+      "What about the Luesheen? They seem to have a lot figured out.",
+
+      "Do they really show off? No one even knows what they look like.",
+
+      "How far back does your history go?",
+
+      "What can you tell me about your biology?",
+
+      "What happened to the fungoids?",
+
+      "You mean you keep them in zoos.",
+
+      "Except privacy and liberty",
+
+      "If you say so.",
+
+      "What do you think about Ssh?",
+
+      "(Remain silent)",
+
+      "What do you think about Kee Pensette?",
+
+      "Have they wronged you in some way?",
+
+      "That sounds terrible. So your colony had no other source of water?",
+
+      "Oh. I'm sorry.",
+
+      "What do you think about the Luesheen?",
+
+      "What do you think about the Choxx?",
+
+      "So the Soom Fenderit also have a pirate problem?",
+
+      "Alright.",
+
+      "What do you think about the Clinkltook?",
+
+      "What do you think about the Fecto?",
+
+      "I wouldn't know.",
+
+      "That does seem suspicious.",
+
+      "Don't the Fenderit hide anything?",
+
+      "They can be frustrating, but I believe they simply don't think in the "
+      "same way as most other species.",
+
+      "They probably are hiding something. I don't think they speak in "
+      "riddles on purpose, though.",
+
+      "Couldn't the same be said of the Fecto?",
+
+      "What do you think about me?"
+    ],
+
+    "interactiveFormat": [
+
+      ["P", "Is it \"Soom Fenderit\" or just \"Fenderit\"?"],
+
+      ["N", "Include \"Soom\" when broaching a topic involving us. You can "
+            "drop it thereafter."],
+
+      ["P", "What does \"Soom\" mean?"],
+
+      ["N", "It is an ancient term meaning \"refinement\". \"Fenderit\" "
+            "is abstract. It has no use other than to refer to our species."],
+
+      ["P", "What do they mean together?"],
+
+      ["N", "The exact meaning is lost to time. Our best translation is "
+            "something like \"Became Fenderit via refinement\". It's "
+            "something "
+            "of a misnomer because we don't consider ourselves fully "
+            "refined. There is much room for improvement."],
+
+
+      ["P", "Tell me a good joke."],
+
+      ["N", "What did the star say to the starship?"],
+
+      ["P", "OK, what?"],
+
+      ["N", "Give me your money!"],
+
+
+      ["P", "What do you think is the nature of reality? Why is there "
+            "anything at all?"],
+
+      ["N", "We Fenderit have a rich and varied study of philosophy. We "
+            "cherish the great questions."],
+
+      ["P", "And what does your philosophy say about the great questions?"],
+
+      ["N", "That anyone who asks is blessed. That means you, too."],
+
+    ]
+  }
+}

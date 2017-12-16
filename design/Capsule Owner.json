@@ -1,0 +1,62 @@
+{
+  "name": "CapsuleOwner",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Who the hell are you? What are you doing on my property?"],
+
+      ["P", "It looked abandoned. I'm calling you because there's a starving "
+            "animal in here. It's in a box that I can't open."],
+
+      ["N", "Good! How dare you tamper with my property! Leave my habitat at "
+            "once and don't come back!"],
+
+      ["P", "What about the animal? It's been roasting in the dark without "
+            "any food. Why did you turn off the environmental system?"],
+
+      ["N", "To conserve energy, of course."],
+
+      ["P", "The capsule's reactor still has billions of joules."],
+
+      ["N", "Joules I won't be spending unnecessarily."],
+
+      ["P", "If you don't care about the animal, could I at least find it a "
+            "better home?"],
+
+      ["N", "Absolutely not! That animal is mine!"],
+
+      ["P", "Of course it's yours. I'm hoping you'll relinquish it for the "
+            "animal's benefit."],
+
+      ["N", "I know that. But I don't have to relinquish anything I own."],
+
+      ["P", "I'm not trying to say you have to--"],
+
+      ["N", "I KNOW. Now leave my property. Turn off the power on your way "
+            "out."],
+
+      ["P", "You realize the animal is about to die. Then it'll be gone "
+            "anyway."],
+
+      ["N", "I'll let it rot in there before I give it to you."],
+
+      ["P", "Do you want me to get the authorities involved?"],
+
+      ["N", "Go right ahead. I'd love to see you arrested for trespassing. "
+            "You're lucky I haven't already called them myself."],
+
+      ["P", "That's fine as long as they help me rescue the animal."],
+
+      ["N", "I don't know where you're from, but around here the law allows "
+            "me to do whatever I want to that animal, or "
+            "nothing at all if I prefer. So can we now agree you have no "
+            "business there and will be leaving directly?"],
+
+      ["P", "Will you at least tell me what it eats?"],
+
+      ["N", "That's it. I'm calling the police."],
+
+
+      ["P", "Fine. I'm leaving."]
+    ]
+  }
+}

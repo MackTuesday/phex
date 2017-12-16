@@ -1,0 +1,91 @@
+{
+  "dialog format": [ "state number", ["npc lines"],
+              [[["player lines"], "resulting state"], "..."], "comment"],
+}
+
+
+{
+  "name": "opening",
+  "worldStateAsserts": [null],
+  "interfaceMode": "forcedDialogShipToShip",
+  "character": "clinngocc"
+}
+
+
+{
+  "name": "openingFadeout",
+  "worldStateAsserts": [{"sceneOpeningComplete": true}],
+  "interfaceMode": "encounterFadeout",
+}
+
+
+{
+  "name": "opening2",
+  "worldStateAsserts": [{"sceneOpeningComplete": true}],
+  "interfaceMode": "forcedDialogShipToShip",
+  "character": "clinngocc"
+}
+
+
+{
+  "name": "obtainedAICore",
+  "worldStateAsserts": [{"sceneOpeningComplete": true},
+                        {"sceneOpening2Complete": true}],
+  "interfaceMode": "narration",
+  "text": "You find the wreckage of a recently crashed vessel. It lies at "
+          "the end of a "
+          "black scar stretching a kilometer across the planet surface. "
+          "Among the mangled bulkheads lies a dismembered android that might "
+          "once have had female form. You take its processing node. You "
+          "detect "
+          "charred tissue in the obliterated engine room. This was your "
+          "suspect. You cordon off the area (for all the good it's likely to "
+          "do) and return to your ship.",
+  "consequentEvents": [{"addQuestItem": "AICore"}]
+}
+
+
+{
+  "name": "aiCorePrompt",
+  "worldStateAsserts": [{"obtainedAICore": true}],
+  "interfaceMode": "dialogShipInternal",
+  "character": "aiCore"
+}
+
+
+{
+  "whatever": {
+    "tree": [
+      [{"init": true} ],
+      [{"init":false, "requestInfo":true, "repaidSsh":true,
+        "justRepaidSsh":true},
+       [2, 4], [null, {"justRepaidSsh":false}]],
+      [{"init":false, "requestInfo":true, "repaidSsh":true,
+        "justRepaidSsh":false},
+       [3, 4], [[5],  {"requestInfo":false, "helpGetHome":true}]],
+      [{"init": false, "requestInfo":true, "repaidSsh":false,
+        "canRepaySsh":true},
+       [1],    [[2], {"repaidSsh":true}]]
+    ]
+  }
+}
+
+{
+  "whatever": {
+    "tree": [
+      [ [ 0], [[[ 0,  1],  1  ]], "" ],
+      [ [ 1], [[[ 2    ],  2  ], [[ 3],  3], [[4], 3]], "" ],
+      [ [ 2], [[[ 5    ],  4  ]], "" ],
+      [ [ 3], [[[      ], null]], "" ],
+      [ [ 4], [[[ 6    ],  5  ]], "" ],
+      [ [ 5], [[[ 7    ],  6  ]], "" ],
+      [ [ 6], [[[ 8    ],  7  ]], "" ],
+      [ [ 7], [[[ 9    ],  8  ]], ""],
+      [ [ 8], [[[10    ],  9  ], [[11], 10]], ""],
+      [ [ 9], [[[11    ], 11  ]], ""],
+      [ [10], [[[10    ],  9  ]], ""],
+      [ [11], [[[], null]], ""]
+      [ [], [[[], null]], ""]
+    ]
+  }
+}

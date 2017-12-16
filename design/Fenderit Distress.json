@@ -1,0 +1,43 @@
+{
+  "name": "fenderitDistress",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello, this is Officer %playerName%. I'm responding to your "
+            "distress call."],
+
+      ["N", "Officer %playerName%. Thanks for answering my distress call. "
+            "I need to transport this package to the Soom Fenderit homeworld."
+            "Can you please make sure it gets there?"],
+
+
+      ["P", "What is it?"],
+
+      ["N", "That is none of your concern."],
+
+
+      ["P", "If it's dangerous, that's very much my concern."],
+
+      ["N", "I assure you, it's perfectly benign."],
+
+
+      ["P", "Does your ship need repairs?"],
+
+      ["N", "That is none of your concern."],
+
+
+      ["P", "Alright, I'll help."],
+
+      ["N", "Thank you. I'm sending it over."],
+
+
+      ["P", "Do I get a reward?"],
+
+      ["N", "You will be paid upon delivery. I promise it will be worth your "
+            "while."],
+
+      ["P", "How much?"],
+
+      ["N", "I'm not at liberty to say."]
+    ]
+  }
+}

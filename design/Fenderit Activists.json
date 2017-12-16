@@ -1,0 +1,229 @@
+{
+  "name": "FenderitActivist",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Hey, I noticed you're trying to get into the prohibited zone. "
+            "We might be able to help each other."],
+
+      ["P", "I'm listening."],
+
+      ["P", "Who are you?"],
+
+      ["N", "I'm Indicaych. I'm part of an organization trying to "
+            "find "
+            "out what they have trapped in there."],
+
+      ["P", "Trapped? What do you mean? "],
+
+      ["N", "We've detected some sort of transmission "
+            "coming from within the prohibited zone. Those peace officers "
+            "are actively jamming it."],
+
+      ["P", "That doesn't mean there's something trapped. It could be any "
+            "sort of secret operation."],
+
+      ["P", "Why do you need to know so badly?"],
+
+      ["N", "It's just one of many things our government hides from us. We "
+            "think the people have a right to know. Besides, you're an "
+            "officer of the law, right? If we're right, what they're doing "
+            "is illegal under interstellar law."],
+
+      ["P", "I am an officer of the law, but this is very far from my "
+            "jurisdiction."],
+
+      ["N", "But you appreciate, more than most, the need to stop "
+            "lawbreakers, "
+            "especially when it's a government entity."],
+
+      ["P", "I also appreciate the need to follow procedure."],
+
+      ["N", "We know you need to place your probe in there. So what will you "
+            "do? Walk away? Hope that procedure will do any good? You know as "
+            "well as I that's a dead end."],
+
+      ["P", "All the same, I need to try the proper channels first."],
+
+      ["N", "OK. You'll be back."],
+
+
+      ["P", "It could be an operation your government needs to keep secret "
+            "from other civilizations."],
+
+      ["N", "Our sources indicate otherwise."],
+
+      ["P", "You mean spies. I'm not sure I want to be a part of this."],
+
+      ["N", "You're an "
+            "officer of the law, right? If we're right, what they're doing "
+            "is illegal under interstellar law."],
+
+
+      ["N", "Hello Officer %playerName%, it's good to see you again."],
+
+      ["P", "You were right, of course. I didn't get anywhere with your "
+            "homeworld officials."],
+
+      ["N", "I do wish things were easier for you. Are you willing to help "
+            "us?"],
+
+      ["P", "We'll see what that entails. Then I'll decide."],
+
+      ["N", "This is our plan. You've seen how testy they are, right? It "
+            "doesn't take much for them to attack. They aren't monsters, "
+            "though. They'll fire a couple shots across your bow before "
+            "they get serious. So you just run."],
+
+      ["P", "So far so good."],
+
+      ["N", "Now as you're running, you fire a single projectile in their "
+            "general direction. It looks like a warning shot or a "
+            "panicked attempt at defensive fire, but it's actually a special "
+            "relay in disguise. It penetrates just far enough to get "
+            "behind their jamming broadcast."],
+
+      ["P", "Interesting. Go on."],
+
+      ["N", "It encrypts the signal they're jamming, then tight-beams it to "
+            "our listening station. Even if they catch it, it will just look "
+            "like more jamming noise."],
+
+      ["P", "What if there's nothing trapped in there? What if your "
+            "government isn't doing anything illegal?"],
+
+      ["N", "There *is* something trapped. We're certain of it."],
+
+      ["P", "Then you don't need to send in the relay."],
+
+      ["N", "We do because we need solid evidence to give the public. "
+            "Our analysis is complicated. People want sound bites. They'll "
+            "ignore any evidence they can't digest in a few seconds, then "
+            "call us crazy."],
+
+
+      ["P", "What *is* trapped in there?"],
+
+      ["N", "We don't know. We only know it's benign and doesn't deserve "
+            "to be imprisoned."],
+
+
+      ["P", "How will you be able to help me?"],
+
+      ["N", "Once we blow this open we'll be able "
+            "to get your probe inside."],
+
+      ["P", "Alright then. I'm in."],
+
+      ["N", "Alright. Take the relay now. Go back to the perimeter and "
+            "play dumb. You know the rest. Afterward, come to our listening "
+            "station at %listeningStationCoords%, planet "
+            "%listeningStationPlanetNo%. Good luck."],
+
+
+      ["P", "Could you go over the plan again?"],
+
+      ["N", "Go to the perimeter. Irritate them until they fire warning "
+            "shots. Run away, but at the same time fire the relay in their "
+            "general direction. Then come to %listeningStationCoords%, planet "
+            "%listeningStationPlanetNo%."]
+
+
+      ["N", "Hello, Officer %playerName%. What can I do for you?"],
+
+      ["P", "I was wondering if you've set up my probe yet."],
+
+      ["N", "No, but we'll have it set up soon. Don't worry. Like I said, "
+            "you'll get a message from us the minute it's ready."],
+
+
+      ["N", "%playerName%! You're in danger!"],
+
+      ["P", "What is it?"],
+
+      ["N", "A Fenderit fleet is coming here to execute you."],
+
+      ["P", "But I didn't do anything wrong! It's not my fault!"],
+
+      ["N", "There's no time to explain. They're here!"],
+
+
+      ["N", "(After player accepts tightbeam hail) Hello "
+            "Officer %playerName%. I wanted to let you know we have some "
+            "news."],
+
+      ["P", "Thanks, but I think I've heard enough news lately."],
+
+      ["N", "I think you'll like this. We found the remains of fusion "
+            "catalysts in the photosphere of a star in Kee Pensette space, "
+            "like the ones Ssh would have used in their reactors."],
+
+      ["P", "Someone was trying to destroy evidence."],
+
+      ["N", "That's what we're thinking. Fortunately those catalysts are "
+            "extremely tough."],
+
+      ["P", "So why make an extra set? Why not just sabotage the set they "
+            "were already making?"],
+
+      ["N", "We're not sure. So that's where you come in. We've really got "
+            "our hands full and we're hoping you can go talk to Kee Pensette "
+            "about it."],
+
+      ["P", "OK, I'll do that."],
+
+      ["N", "Thanks. Let us know what you find. We're stationed in system "
+            "%secondFenderitHQSystem% around planet "
+            "%secondFenderitHQPlanet%. We had to move."],
+
+
+      ["N", "Hello Officer %PlayerName%. Do you have anything from Kee "
+            "Pensette?"],
+
+      ["P", "Yes, it turns out the manufacturer couldn't have gotten away "
+            "with altering the catalyst set. All of their exotic matter "
+            "products are independently tested. They had to make an extra "
+            "set in secret, do a swap, then get rid of the originals."],
+
+      ["N", "What does the manufacturer have to say about the disaster on "
+            "the Ssh homeworld?"],
+
+      ["P", "I don't know, but one of their top executives is missing, "
+            "probably murdered."],
+
+      ["N", "It's easier to frame a dead person."],
+
+      ["P", "Anyway, Kee Pensette gave me all the evidence they have. Maybe "
+            "you'll be able to put it together with yours and figure "
+            "something out. I'm sending it over now."],
+
+      ["N", "Great. In the meantime, we think the time is ripe for direct "
+            "action against our establishment's jamming campaign. Word has "
+            "gotten out about our discovery and we're "
+            "gaining popular support. We can gain more support if people can "
+            "hear from the Nameless One directly."],
+
+      ["P", "Sounds good. What's the plan?"],
+
+      ["N", "There are three jamming stations involved. We plan to destroy "
+            "them. We're hoping you can help in that effort."],
+
+      ["P", "What kind of resistance can we expect?"],
+
+      ["N", "Strong but not insurmountable. The stations aren't important "
+            "military targets."],
+
+      ["P", "Alright. Just tell me where to be and when."],
+
+      ["N", "Our squadron is already assembling near the first target at "
+            "%jammingStationOneSystem%, planet %jammingStationOneRendezvous%. "
+            "Meet them there when you can."],
+
+      ["P", "Will do. See you later."],
+
+      ["N", "Good luck."],
+
+
+      ["P", "Goodbye."]
+    ]
+  }
+}

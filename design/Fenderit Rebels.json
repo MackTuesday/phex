@@ -1,0 +1,26 @@
+{
+  "name": "FenderitRebels",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Hello, Officer %playerName%. Glad you could make it. When "
+            "you're ready, proceed to planet %jammingStationOnePlanet%. "
+            "We expect them to engage us immediately."],
+
+      ["P", "Alright. See you there."],
+
+      ["N", "OK. One down, two to go. We won't rendezvous before the next "
+            "target. It's at %jammingStationTwoSystem%, planet "
+            "%jammingStationTwoPlanet%. We'll watch for you and follow you "
+            "in."],
+
+      ["N", "We might actually make it! The next target is at "
+            "%jammingStationThreeSystem%, planet "
+            "%jammingStationThreePlanet%. See you there."]
+
+      ["N", "(They hail the player, player answers, portrait appears, then "
+            "the Nameless One immediately interrupts with a broadcast. If "
+            "the player leaves without answering the hail, the broadcast "
+            "occurs just after the player leaves the system.)"]
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+// High-level UI navigation
+// Title screen / menu
+// - Start new game -  Introduction
+// - Load game -       Load Game Menu
+// - Exit to desktop - Terminate
+// Introduction
+// ==> Planet Orbit
+// Planet Orbit
+// - Interplanetary Nav
+// - Dialogue
+// - Select Landing Site
+// - Ship Cargo
+// - Combat
+// - Escape Menu
+// Interplanetary Nav
+// - Planet Orbit
+// - Interstellar Nav
+// - Dialogue
+// - Ship Cargo
+// - Combat
+// - Escape Menu
+// Interstellar Nav
+// - Interplanetary Nav
+// - Dialogue
+// - Ship Cargo
+// - Combat
+// - Escape Menu
+// Dialogue
+// - (Back)
+// - Planetside Combat (if planetside) 
+//  (don't push to stack)
+// - Combat (if not planetside) 
+//  (don't push to stack)
+// - Ship Cargo?
+// - Escape Menu?
+// Combat
+// - Dialogue (don't push to stack)
+// - Ship Cargo?
+// - (Back)
+// - Escape Menu without Save
+// Ship Cargo
+// - (Back)
+// - Dialogue
+// - Escape Menu
+// Escape Menu
+// - Quicksave ==> (back)
+// - Save (if allowed)
+// - Load
+// - Main Menu
+// - Exit to Desktop
+// Save
+// - (back)
+// Load
+// - (back)
+// Select Landing Site
+// - (back)
+// - Landing Sequence
+// - Escape Menu
+// Landing Sequence
+// ==> Planetside Nav
+// Planetside Nav
+// - Dialogue
+// - UV Cargo
+// - Planetside Combat?
+// - Escape Menu
+// UV Cargo
+// - (Back)
+// - Dialogue
+// - Escape Menu
+// Planetside Combat
+// - Dialogue (don't push to stack)
+// - Ship Cargo?
+// - (Back) 
+//   (Only Planetside Nav should be on stack)
+// - Escape Menu without Save
+// Base?
+
+// Leave Orbit
+// Select Site
+// Land
+// Disembark

@@ -1,0 +1,112 @@
+{
+  "name": "Narration",
+  "messages":
+  [ "You find the wreckage of a recently crashed vessel. It lies at "
+    "the end of a black scar stretching a kilometer across the planet "
+    "surface. Among the mangled bulkheads lies a dismembered android that "
+    "might once have had female form. You take its processing node. You find "
+    "your suspect in the obliterated engine room, but he's been reduced to a "
+    "mess of charred flesh. You cordon off the area (for all the good it's "
+    "likely to do) and return to your ship.",
+
+    "You step out of your all-purpose vehicle into the worst kind of bright "
+    "desert heat. Too much of this and you'll need a spacesuit. Kilometers "
+    "away, through the hazy air, you can barely make out some craggy hills. "
+    "This place is otherwise geometrically flat. There would be no sense of "
+    "scale if not for the meager litter of rocks stretching into the "
+    "distance.\n\n"
+    "There is a small, weathered habitat here, capsular, six "
+    "meters by three. Blinding light glares off its dingy metallic surface. "
+    "There are no windows, only a hatch, which opens readily when you press "
+    "the adjacent entry button.\n\n"
+    "Inside the air is utterly foul and very hot, at least 50 degrees. You "
+    "find a console on the wall and activate the environmental system. Light "
+    "immediately fills the room and cool air starts blowing. The capsule is "
+    "totally bare.\n\n"
+    "You hear scrabbling behind a door at the end of the habitat. Beyond you "
+    "find a meter-wide cubical box with rounded corners. Its surface is a "
+    "lusterless white. Through a stingy airhole you can make out a "
+    "dog-like creature standing in its own filth. It's emaciated. It regards "
+    "you with deep distrust, teeth bared. There must be a water supply inside "
+    "or the creature would have died long ago. You can't find any food for "
+    "the animal.\n\n"
+    "The box is seamless. It must be fastened to the floor because it resists "
+    "your best effort to turn it over. Your pistol might as well be a "
+    "flashlight for all the good it does.\n\n"
+    "You retrieve a powered prying tool from the ship, something meant for "
+    "rescuing people from crumpled vehicles. The box and floor prove to be "
+    "damnably strong -- neither will give so much as a hair's breadth.\n\n"
+    "The same goes for the capsule itself. Even the ship's tractor beam "
+    "won't budge it. You balk at trying harder, fearing you might destroy "
+    "the capsule and the poor creature within it.\n\n"
+    "Misfortune finally relents when you discover a way to signal the "
+    "capsule's owner using the wall console.",
+
+    "What do you want to do about the animal?\n"
+    "1. Leave it for now and shut off the power.\n"
+    "2. Leave it for now and keep the power on.\n"
+    "3. Try to guess what to feed it; risk killing it.\n"
+    "4. Euthanize it.",
+
+    "You eventually find something the animal will eat. Unfortunately it "
+    "can't keep the food down. Thereafter it refuses to try anything you "
+    "offer. You probably just don't have anything appropriate for it.",
+
+    "What do you want to do about the animal?\n"
+    "1. Leave it for now and shut off the power.\n"
+    "2. Leave it for now and keep the power on.\n"
+    "3. Euthanize it.",
+
+    "You put the barrel of your pistol against an air hole and fire several "
+    "times. You look inside. The animal is dead, and you can tell from its "
+    "wounds that it felt no pain.",
+
+    "The hatch is locked. You can't hack the lock. Disable it by force?\n"
+    "1. Yes\n"
+    "2. No"
+
+    "The animal is in the same condition as when you left it.",
+
+    "The capsule has been powered down but the animal is still alive. You "
+    "can't tell whether it has been fed.",
+
+    "You enter the capsule again and pass into the back room. Peering into "
+    "the featureless box, you find the animal has starved to death.",
+
+    "The capsule is odorless inside. The power has been left on. The box "
+    "has been cleaned out.",
+
+
+    "Your gravitational sensors are picking up a wave packet traveling "
+    "through space at light speed. You don't know what to make of the "
+    "readings. You record all the measurements you can. Maybe someone "
+    "will be able to help you interpret them.",
+
+
+    "You place yourself in the packet's path about 300 million kilometers "
+    "out, giving yourself plenty of time to set the trap. It's a cylinder "
+    "about two cubic meters in volume. It looks like it might be translucent "
+    "except the patterns of light coming through don't exactly correspond "
+    "to the objects behind it.\n"
+    "Some minutes later "
+    "the trap activates, suddenly becoming about 10 kilograms heavier. You've "
+    "captured the packet and can now take it back to the Luesheen.",
+
+
+    "Mungie will give a bonus to your sensor range and precision."
+
+
+    "You find the remains of an obliterated ship. There is salvageable "
+    "material and an intact component of some sort.",
+
+
+    "This component is a point defense turret. It doesn't seem to be "
+    "compatible with your layout."
+
+
+    "Your ship now has a point defense turret. In combat, it will "
+    "periodically fire at the closest targetable object, be it a missile or "
+    "a ship."
+   ]
+
+}

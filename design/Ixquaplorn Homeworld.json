@@ -1,0 +1,243 @@
+{
+  "name": "ixquaplornHomeworld",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "What are you?"],
+
+      ["P", "I'm a human. Pleased you meet you."],
+
+      ["N", "And what's a human?"],
+
+      ["P", "Um, me. I'm a human. That's what my species is called."],
+
+      ["N", "Where are you from? Why are you here?"],
+
+      ["P", "I'm from a distant part of the galaxy. I'm here by accident."],
+
+      ["N", "But why are you *here*, where we live?"],
+
+      ["P", "I chanced upon this place. I was exploring."],
+
+      ["N", "I see. We've never had visitors before. You certainly look "
+            "strange."],
+
+      ["P", "That's how it is with species from other planets."],
+
+      ["N", "Interesting. What do you want?"],
+
+      ["P", "I want to know about your species. What do you call yourselves?"],
+
+      ["N", "We are ixquaplorn. This world is called Plornsquhsk. I'm "
+            "Delegate Skunrix, and I "
+            "represent the Plarx Ultimate Republic. Well met."],
+
+      ["P", "I'm Officer %playerName%. Do you mind if I ask you some "
+            "questions about yourselves?"],
+
+      ["N", "That's an odd question. Why would we mind?"],
+
+      ["P", "Some peoples are private about their information."],
+
+      ["N", "How many peoples do you know about?"],
+
+      ["P", "About thirty. Some of them are within a hundred light years of "
+            "here."],
+
+      ["N", "That's amazing! Do you think there are even more?"],
+
+      ["P", "I don't see any reason why not."],
+
+      ["N", "So much diversity, I can't imagine anyone taking offense at a "
+            "question, even if they're unwilling to answer some of them."],
+
+      ["P", "That diversity means there is a wide range of attitudes on just "
+            "about any issue you can name."],
+
+      ["N", "Hm. Ask your questions."],
+
+
+      ["P", "What's an ultimate republic?"],
+
+      ["N", "It's the best kind of republic possible. Ignorant people aren't "
+            "allowed to vote."],
+
+      ["P", "But shouldn't everyone be represented?"],
+
+      ["N", "Everyone is. They're represented by their elected "
+            "representatives."],
+
+      ["P", "But if ignorant people don't get to elect anyone, why should "
+            "any representative care what they think?"],
+
+      ["N", "Exactly. No one cares what an ignorant person thinks."],
+
+      ["P", "Ignorant people do."],
+
+      ["N", "Not here they don't."],
+
+      ["P", "You don't have anyone, who in their ignorance, doesn't "
+            "understand how ignorant they are?"],
+
+      ["N", "You'd have to avoid people who are better informed. I don't see "
+            "how you could do that."],
+
+      ["P", "Where I come from, a lot of people assume they're aware of "
+            "everything worth knowing."],
+
+      ["N", "That sounds like a nightmare! How do you get anything done?"],
+
+      ["P", "Sometimes we don't."],
+
+      ["N", "But you're the one flying the stars and we're stuck here."],
+
+      ["P", "Give it time. It can take centuries to figure out how to do it."],
+
+      ["N", "How long ago was your culture at our stage of development?"],
+
+      ["P", "Do you have fusion plants? Power plants that use thermonuclear "
+            "fusion? Nanotechnology? Artificial intelligence?"],
+
+      ["N", "I don't know what those are."],
+
+      ["P", "But you have television and electronics. Chemical rockets?"],
+
+      ["N", "You mean fireworks?"],
+
+      ["P", "Not quite. It took us about a hundred years to go from where "
+            "you are to putting something in orbit around our planet." ],
+
+      ["N", "And the stars?"],
+
+      ["P", "For us it was another hundred or so."],
+
+      ["N", "Two hundred years. That saddens me."],
+
+      ["P", "It could have been worse. When you learn about relativistic "
+            "physics you'll wonder how it's possible at all."],
+
+      ["N", "Tell me about these ideas."],
+
+      ["P", "I've told you too much already. It isn't my place to give you "
+            "disruptive information."],
+
+      ["N", "Let *us* worry about disruption. Tell us what you know."],
+
+      ["P", "I... I'm just a traveler. It wouldn't be right."],
+
+      ["N", "You're wrong. Technological advancement improves our "
+            "well being. It enhances our ability to exploit our resources."],
+
+      ["P", "It also enhances your ability to destroy yourselves. I don't "
+            "think you understand yet just how dangerous advanced "
+            "technology can be. I'm sorry, I have to refuse."],
+
+      ["N", "Then let's change the subject."],
+
+
+      ["P", "Tell me about your biology."],
+
+      ["N", "We're cold-blooded omnivorous caecotrophs."],
+
+      ["P", "What's a caecotroph?"],
+
+      ["N", "Most of our digestion occurs in our hindgut. When we eat plant "
+            "matter, our digestive tract separates the roughage and issues "
+            "nutrient-rich pellets that "
+            "pass out like feces. We eat these pellets so our gut has the "
+            "chance to absorb the nutrients the second time around."],
+
+      ["P", "You eat your own poop?"],
+
+      ["N", "It's not exactly \"poop\"."],
+
+      ["P", "But it comes out your butt."],
+
+      ["N", "Interesting. Does your species revert to a juvenile state when "
+            "bodily functions come up in conversation?"],
+
+      ["P", "...No."],
+
+      ["N", "So it's just you."],
+
+
+      ["P", "How do you reproduce?"],
+
+      ["N", "Sexually. The males of our species shed spores along with "
+            "skin cells. When a spore comes in contact with a female's "
+            "ovary, it fertilizes one of the ova. The ovum develops into "
+            "a fetal cyst that drops off after 30 days or so."],
+
+      ["P", "That doesn't sound very pleasurable. The process of "
+            "fertilization is extremely pleasurable for us. It encourages "
+            "us to engage each other."],
+
+      ["N", "Oh it feels very good. Males are always rubbing against "
+            "the furniture. It's rude to do openly so they usually do it "
+            "alone... Usually. Females are in a constant state of frisson "
+            "when they're about to drop a cyst."],
+
+
+      ["P", "How does a spore reach an ovary? Are they on the outside?"],
+
+      ["N", "Yes."],
+
+      ["P", "Ours are on the inside."],
+
+      ["N", "How do your spores reach your ovaries?"],
+
+      ["P", "Males have an organ that delivers germ cells directly to "
+            "the female's internal reproductive system."],
+
+      ["N", "Males don't... stab females, do they?"],
+
+      ["P", "Oh no, females are equipped to receive the male harmlessly."],
+
+      ["N", "Still, it sounds more complicated than it needs to be."],
+
+      ["P", "It's more complicated than you know."],
+
+      ["N", "But you manage to reproduce anyway."],
+
+      ["P", "The drive to copulate is strong among us."],
+
+      ["N", "I guess it would need to be."],
+
+
+      ["P", "Do your females fertilize easily?"],
+
+      ["N", "Yes, very easily."],
+
+      ["P", "So you have an overpopulation problem?"],
+
+      ["N", "No, we allow most of our fetuses to die."],
+
+      ["P", "That's tragic!"],
+
+      ["N", "Why do you say that?"],
+
+      ["P", "Developing fetuses are precious to us. We tend to nurture "
+            "them carefully if circumstances allow it."],
+
+      ["N", "You don't breed easily. We do."],
+
+
+      ["P", "What do you think about the nature of reality? Why is there "
+            "anything at all?"],
+
+      ["N", "We trace cause and effect backward to an ultimate cause that is "
+            "its own cause. What do you think?"],
+
+      ["P", "We tend to argue with each other about whether the question is "
+            "answerable."],
+
+      ["N", "Even you are fallible."],
+
+      ["P", "Oh yes. Don't put me on a pedestal."],
+
+
+      ["P", "I'd best be going. I really enjoyed our talk."],
+
+      ["N", "So did I. You're welcome back anytime."]
+    ]
+  }
+}

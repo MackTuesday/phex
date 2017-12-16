@@ -1,0 +1,50 @@
+{
+  "name": "choxxPirateBase",
+  "dialog": {
+    "npclines": [
+      "Get the fuck out of here.",
+
+      "You don't understand. Fuck. Off. You don't want to be here.",
+
+      "(Scans player's vessel) Shit. What the fuck do you want?",
+
+      "(Doesn't know what's up, but smells danger) (Terminate communication) "
+      "(Attack)",
+
+      "Huh, we have another fag here. Taking jizz up your ass from the "
+      "Luesheen? "
+      "Fuck off.",
+
+      "\"Whether or not you survive this encounter is up to you.\" Get your "
+      "gay ass out of here.",
+
+      "What ship? I don't know what you're talking about.",
+
+      "(Scans player ship) Listen, shitstain. I'll give you one "
+      "chance to fuck off before I tear you a new fuckhole.",
+
+      "Have it your way, asshole."
+
+      "We'll be back, fucker!"
+    ],
+    "playerLines": [
+      "Hello, my name is %playerName%. How are you?",
+
+      "I was just hoping we could be friends. I'm new around here.",
+
+      "Let's share information about our respective cultures.",
+
+      "I'm here to retrieve the Luesheen vessel you stole. Hand it over "
+      "peacefully and we'll be on our way.",
+
+      "I'm here to retrieve the Luesheen vessel you stole. Whether or not "
+      "you survive this encounter is up to you."
+
+      "Fuck you. Give me the ship or I'll fucking waste your ass.",
+
+      "The Luesheen ship. I can see it right there, idiot."
+
+      "I'm not going anywhere.",
+    ]
+  }
+}

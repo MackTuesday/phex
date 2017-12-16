@@ -1,0 +1,164 @@
+{
+  "name": "ClinkltookHomeworld",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Hello, you must be the visitor we've all heard about. Welcome "
+            "to Zhotkl, the homeworld of the Clinkltook. What can I do for "
+            "you?"],
+
+      ["P", "I'm curious about your people. Would you be willing to tell me "
+            "about yourselves?"],
+
+      ["N", "We are a private and careful people, but we do share some "
+            "things. What would you like to know?"],
+
+
+      ["P", "Tell me about your biology."],
+
+      ["N", "The Clinkltook possess an unusual physiology. Each one of us comprises "
+            "a colony of small arthropoids in symbiosis with a photosynthetic mat. "
+            "Their chitin is strongly hydrophobic and allows us to sit atop "
+            "the surface of the bodies of water we inhabit: mostly swamps and bogs. Our "
+            "mats have prehensile root systems for absorbing nutrients, catching underwater "
+            "prey, and tool use."],
+
+
+      ["P", "Tell me about your culture."],
+
+      ["N", "We are polytheistic and worship "
+            "the God of Sunlight as the progenitor of all the other gods. We create art "
+            "in all forms, but we're best known for Kalksni, a kind of sculpture that "
+            "gradually erodes."],
+
+
+      ["P", "What is the name of your God of Sunlight?"],
+
+      ["N", "It is simply \"God of Sunlight\"."],
+
+
+      ["P", "What do you think is the nature of reality? Why is there anything at all?"],
+
+      ["N", "Forgive my reticence, but we do not share such powerful knowledge with "
+            "others."],
+
+      ["P", "What would happen if you did?"],
+
+      ["N", "It could be misused, just like any powerful knowledge."],
+
+      ["P", "How do you know your people won't misuse it?"],
+
+      ["N", "We sometimes do, to our great shame."],
+
+      ["P", "What happens when you misuse it? Or is that private?"],
+
+      ["N", "Oh yes, that's private."],
+
+
+      ["P", "Tell me a joke."],
+
+      ["N", "The red reed thought it was incompressible!"],
+
+
+      ["P", "What do you think of the Fenderit?"],
+
+      ["N", "They intimidate us. Our friends among the Luesheen advise us to stand up "
+            "for ourselves, but it rings hollow coming from them. It's awfully easy for "
+            "powerful beings like them to talk about bravery. They don't know what it's "
+            "like to be limited in power."],
+
+
+      ["P", "What do you think of Kee Pensette?"],
+
+      ["N", "We admire them greatly. We know they're mortal but their intimate "
+            "relationship with electromagnetism "
+            "reminds us of the God of Sunlight."]
+
+
+      ["P", "What do you think of the Luesheen?"],
+
+      ["N", "We appreciate their good nature even if they are a bit too self-important."],
+
+
+      ["P", "What do you think of Ssh?"],
+
+      ["N", "We trust them more than most. They're a bit too... chummy "
+            "sometimes, though."],
+
+
+      ["P", "What do you think of the Choxx?"],
+
+      ["N", "We don't understand why people like them are allowed to enjoy sunlight. "
+            "They're like the rhino-bears of our homeworld that tend to mindlessly "
+            "stomp us given half a chance, only they seem to enjoy it."],
+
+
+      ["P", "What do you think of the Fecto?"],
+
+      ["N", "We have a phobic reaction to them. They probably mean well, but most of us "
+            "can't stand the sight of them."],
+
+
+      ["P", "What do you think of me?"],
+
+      ["N", "It's hard to say right now."],
+
+      ["N", "You seem alright, I suppose."],
+
+      ["N", "Do you really have to ask?"],
+
+
+      ["P", "I'm looking for work. Do you have any ideas?"],
+
+      ["N", "Hm... That ship of yours -- it has good range? You can travel "
+            "far and wide with it?"],
+
+      ["P", "Yes, it has fairly good range."],
+
+      ["N", "We're very interested in finding unusual planets. Perhaps you "
+            "could survey other star systems for us. The lockdown on "
+            "expansion makes survey information essentially worthless, which "
+            "means no one's selling it."],
+
+      ["P", "Why do you want it?"],
+
+      ["N", "Fantasy. Our people enjoy fiction based on real places."],
+
+      ["P", "That sounds doable. I don't have good survey equipment though, "
+            "nor the skill to use it."],
+
+      ["N", "That's no problem. We can give you some starter equipment. It's "
+            "easy enough to use. We'll just deduct the cost from the first "
+            "finder's fee."],
+
+      ["P", "One question: What qualifies as \"unusual\"?"],
+
+      ["N", "Planets with life, rare composition, or evidence of ancient "
+            "civilization, for example. We're looking for anything out of the "
+            "ordinary."],
+
+
+      ["P", "There's a lockdown on expansion?"],
+
+      ["N", "The Luesheen make everyone agree to limit their expansion. It "
+            "has to do with avoiding conflicts over resources. We like it "
+            "because we're not interested in competition."],
+
+
+      ["P", "Hello. I answered a distress call from a Clinkltook ship. "
+            "Their reactor was losing stability and the ship was destroyed "
+            "by the time I arrived. I retrieved this point defense turret "
+            "from the wreckage and I thought you might like to have it back."],
+
+      ["N", "Yes, we know about that ship. It's very kind of you to return "
+            "this hardware, but we'd like you to keep it. Please allow us to "
+            "install it on your ship."],
+
+      ["P", "Are you sure? It doesn't seem to be compatible."],
+
+      ["N", "You're unfamiliar with our weapon design. I'm sure our engineers "
+            "can make it work."],
+
+      ["P", "Well thank you."]
+    ]
+  }
+}

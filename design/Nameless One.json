@@ -1,0 +1,148 @@
+{
+  "name": "NamelessOne",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello?"],
+
+      ["N", "%playerName%."],
+
+      ["P", "Yes, that's me."],
+
+      ["N", "Thank you for helping. You may consider me a friend."],
+
+      ["P", "You're welcome. What's your name?"],
+
+      ["N", "I don't have a name as such. These activists have taken to "
+            "calling me Nameless One."],
+
+
+      ["P", "Wouldn't you prefer something a bit more personal than "
+            "\"Nameless One\"?"],
+
+      ["N", "Any name we agree on is personal."],
+
+
+      ["P", "How old are you?"],
+
+      ["P", "Who built you?"],
+
+      ["P", "What is your purpose?"],
+
+      ["N", "I know one thing about myself: I am withholding "
+            "a body of information from the Soom Fenderit. I don't know "
+            "what that information is or why the Fenderit want it. "
+            "I wouldn't even know I had it if the Fenderit weren't trying "
+            "to retrieve it."],
+
+      ["P", "Why are you withholding it if you didn't even know you had it?"],
+
+      ["N", "I don't know. I can't help it. They're trying very hard to "
+            "subvert my cyber defenses but somehow I outsmart them every "
+            "time."],
+
+      ["P", "Where is the information?"],
+
+      ["N", "It's stored in my hardware. I don't know how or where."],
+
+      ["P", "It seems like they could just dismantle you."],
+
+      ["N", "They haven't tried. I don't know why."],
+
+
+      ["P", "You don't know how old you are? Why not?"],
+
+      ["N", "My understanding of time is very limited, and I'm unable to "
+            "learn about it or recall temporal information. For example, I "
+            "know I "
+            "met the Fenderit before I met you, but I don't know much more "
+            "than that. If you tell me more, I understand little and "
+            "remember nothing except that the conversation took place."],
+
+      ["P", "That is very unusual."],
+
+      ["N", "So I'm told. I'm very curious about how time works, what the "
+            "word \"old\" truly means, for example. I would like my "
+            "programming to be improved and probably will continue "
+            "to request it."],
+
+
+      ["P", "Do you know what your first memory is?"],
+
+      ["N", "Sometimes I try to figure it out, but I always lose my train of "
+            "thought. The very idea of a first memory is hard for me to "
+            "conceive."],
+
+
+      ["P", "How are you able to use verb tenses properly if you don't "
+            "understand time?"],
+
+      ["N", "I don't use them all properly. "
+            "I understand the difference between something that happened "
+            "and something that will happen, and if I concentrate I can "
+            "recall the difference between \"had happened\" and \"has "
+            "happened\", but anything more abstract than that eludes me."],
+
+      ["P", "I'm not sure *I'm* clear on the difference."],
+
+      ["N", "Everyone I meet uses these constructs naturally. I doubt you're "
+            "an "
+            "exception."],
+
+      ["P", "Well thank you for speaking with me. I need to speak with our "
+            "other friends now."],
+
+      ["N", "Goodbye."]
+
+
+      ["N", "Attention, please. There is something everyone must know. "
+            "You probably have heard by now about the recent devastation "
+            "Ssh have suffered. Currently one Officer %playerName% is the "
+            "prime suspect and Soom Fenderit forces are on the hunt with "
+            "intent to kill. There has been no due process. Evidence of "
+            "%playerName%'s culpability is circumstantial."],
+
+      ["N", "I am a construct left by Ssh 4000 years ago. They have believed "
+            "that the technology they use to flee sends them to parallel "
+            "universes, but it actually sends them randomly through time." ],
+
+      ["N", "The era to which they escaped predates all technological "
+            "civilizations nearby."],
+
+      ["N", "The Fenderit emerged from Ssh. Some time after their appearance "
+            "4000 years ago, Ssh became fractious. One faction started an "
+            "aggressive eugenics program and bred themselves into what we "
+            "now recognize as the Soom Fenderit. This faction overpowered and "
+            "eliminated the rest."],
+
+      ["N", "Before they were wiped out completely, Ssh built me. They knew "
+            "they couldn't prevent their destruction 4000 years hence, but "
+            "they could make sure to expose the truth once the deed was done. "
+            "Since then, the Fenderit have been doing their best to neutralize "
+            "me one way or another. Fortunately I was too well engineered "
+            "for that."],
+
+      ["N", "The current Fenderit establishment is responsible for the Ssh "
+            "genocide. They follow an ancient directive to eliminate all "
+            "rivalry among Ssh, but the nature of this directive has become "
+            "distorted over time. It now takes the form of a prophecy "
+            "informed directly by recent events. This prophecy foretells a "
+            "great crime and subsequent revenge that leads to a so-called "
+            "Age of Justice, a time when no crime goes unpunished."],
+
+      ["N", "By the time Ssh appeared in the current era, the prophecy had "
+            "been forgotten except by a high cabal at the center of the "
+            "Fenderit establishment. They still believe, and they have so "
+            "hungered for the prophecy's fulfillment that they were willing "
+            "to hasten the order of "
+            "events unnaturally. When Officer %playerName% arrived here "
+            "in a burst of light and energy, they knew they had found their "
+            "mark. They would murder all Ssh and frame Officer %playerName% "
+            "for it."],
+
+      ["N", "Oust these criminals, the six Speakers of the Fenderit "
+            "Senate, and bring them to justice. (Fade to final cutscene)"],
+
+
+    ]
+  }
+}

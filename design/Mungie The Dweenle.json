@@ -1,0 +1,43 @@
+{
+  "name": "mungieTheDweenle",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Hello."],
+
+      ["P", "You're a dweenle! How did you get all the way out here?"],
+
+      ["N", "I don't know. Are you sure I'm not dead? Not that it matters."],
+
+      ["P", "What's the last thing you remember?"],
+
+      ["N", "I was at a birthday party. I think it was my birthday because "
+            "there weren't any decorations and no one else was there. I "
+            "was thinking about getting out of bed. Then suddenly I was "
+            "here."],
+
+
+      ["P", "Have you seen any luesheen? Did you get to see what they look "
+            "like?"],
+
+      ["N", "They look like tables. Wait, no, that's a table. I need my "
+            "glasses."],
+
+
+      ["P", "What kind of work did you do back home?"],
+
+      ["N", "I was a science officer on a starship. Sort of. I was pretty "
+            "bad at it."],
+
+      ["P", "I doubt it. Some of the best starship officers are dweenle."],
+
+      ["N", "Stop making fun of me. Actually go ahead. I deserve it."],
+
+      ["P", "I'm not making fun of you. Would you like to work with me? I'm "
+            "looking for a way home. Maybe I can get you home too."],
+
+      ["N", "Whatever. I guess."],
+
+      ["P", "Welcome aboard."]
+    ]
+  }
+}

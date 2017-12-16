@@ -1,0 +1,31 @@
+{
+  "name": "lostKeePensette",
+  "dialog": {
+    "interactiveFormat": [
+      ["P", "Hello, this is Officer %playerName%. I'm responding to your "
+            "distress call. I understand your navigational instruments are "
+            "damaged."],
+
+      ["N", "Hello, Officer %playerName%. Yes, one of the continuum fluxes "
+            "in this nexus leads near our homeworld, but we cannot determine "
+            "which."],
+
+
+      ["P", "I see. I don't know which one will lead you home either, but "
+            "I can go through them and find out."],
+
+      ["N", "That would be most helpful. Thank you."],
+
+
+      ["P", "It's the one just downspin of here, at "
+            "%fluxToKPHomeworldCoords%."],
+
+      ["N", "Wonderful. Thank you for your help."],
+
+      ["P", "Do you need help with repairs?"],
+
+      ["N", "No, thank you. We can make it home now that we know which flux "
+            "to use. Take this as a reward. Be well."]
+    ]
+  }
+}

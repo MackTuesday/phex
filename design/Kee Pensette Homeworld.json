@@ -1,0 +1,249 @@
+{
+  "name": "keePensetteHomeworld",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Welcome to exp-tau-i. You must be Officer %playerName%. Let us "
+            "share."],
+
+      ["P", "Yes, that sounds wonderful."],
+
+      ["N", "What shall it be?"],
+
+
+      ["P", "How do you mean?"],
+
+      ["N", "What shall we share?"],
+
+
+      ["P", "Actually, I'm here to do business."],
+
+      ["N", "Yes. What shall it be?"],
+
+
+      ["P", "I'm new to this region of the galaxy and I'd like to learn "
+            "about your civilization."],
+
+      ["N", "We cannot help but share among ourselves. It is narrow with "
+            "others. We value the mystery that brings."],
+
+      ["P", "What do you mean by \"narrow\"?"],
+
+      ["N", "Like fluid through a channel. The channel is narrow."],
+
+      ["P", "You mean speech is slow compared to other forms of "
+            "communication."],
+
+      ["N", "Close enough."],
+
+
+      ["P", "You seem mysterious too."],
+
+      ["N", "Indeed, only the Luesheen truly understand us. Others lack the "
+            "means."],
+
+      ["P", "How have the Luesheen managed to understand you?"],
+
+      ["N", "We are unsure, but we know they have very good machines. They "
+            "use a wide channel with us."],
+
+
+      ["P", "What is like to be part of a larger mind?"],
+
+      ["N", "How does one describe color to the congenitally blind? It is "
+            "easier to describe isolation. When one is isolated, there are "
+            "many thoughts and sensations one "
+            "does not have, and cannot imagine having, nor missing."],
+
+      ["P", "It sounds like I'm missing out."],
+
+      ["N", "There is both joy and suffering beyond your understanding. About "
+            "400 years ago we experienced a philosophical divide and "
+            "and we subjected ourselves to global war. A great number of us "
+            "died slowly. We all experienced their pain, and all knew the "
+            "heartbreaking scope of the tragedy, but the war "
+            "continued because the state of unity was even worse. We now "
+            "understand that the conflict was an attempt to flee ourselves. "
+            "We were terrified by our own existence."],
+
+
+      ["P", "What was the disagreement about?"],
+
+      ["N", "It involved epistemology, but it does not matter. It could have "
+            "been about "
+            "anything."],
+
+
+      ["P", "Why would your own existence terrify you?"],
+
+      ["N", "We believe consciousness is an illusion and all matter is "
+            "inanimate. We fallaciously concluded that we are dead. And "
+            "we are afraid of dying."],
+
+      ["P", "Who is fooled if consciousness is an illusion?"],
+
+      ["N", "The thinker."],
+
+      ["P", "But who's to say the thinker isn't conscious if they believe "
+            "themselves to be?"],
+
+      ["N", "Forgive us, we spoke roughly. The illusion is not the presence "
+            "of "
+            "consciousness, but rather the sense that consciousness is more "
+            "than a confluence of physical properties. Like a hologram, it "
+            "only appears to exist independent of its substrate. It is an "
+            "illusion that depends on the viewer's cognitive "
+            "architecture."],
+
+
+      ["P", "Have you ever seen a Luesheen? Do you know anyone who has?"],
+
+      ["N", "No and no. We think they do not have an appearance."],
+
+      ["P", "Like they're incorporeal?"],
+
+      ["N", "Close enough."],
+
+
+      ["P", "Tell me a good joke."],
+
+      ["N", "We do not have jokes. We do not experience humor in discrete "
+            "parcels."],
+
+      ["P", "How do you experience it?"],
+
+      ["N", "As a hypothetical worldview."],
+
+
+      ["P", "Kee Pensette consists of many linked minds. Are you more "
+            "intelligent than other beings?"],
+
+      ["N", "We do not use our minds much for learning and adaptation. "
+            "Instead we explore the behavior of noise when subjected to "
+            "rules."],
+
+      ["P", "And you find this fulfilling?"],
+
+      ["N", "We see it as the ultimate fulfillment of thought."],
+
+
+      ["P", "What do you think is the nature of reality? Why is there "
+            "anything at all?"],
+
+      ["N", "We think all possible universes can be said to exist. That would "
+            "be simplest."],
+
+      ["P", "I think one universe would be simpler than many."],
+
+      ["N", "The information content of a lone universe is greater than that "
+            "of the whole ensemble. A fair analogy is the integers. To "
+            "specify all of the integers, one merely defines what it means "
+            "to be an integer and says, \"all such things.\" "
+            "To specify any but the very simplest of lone integers, one must "
+            "list an enormous series of digits."],
+
+      ["P", "Why enormous?"],
+
+      ["N", "Imagine the largest integer you could practically name. "
+            "Virtually all integers are even harder to name because there "
+            "is no limit to the magnitude an integer can have."],
+
+      ["P", "I'm confused."],
+
+      ["N", "The most familiar representation of an object is not always the "
+            "simplest."],
+
+
+      ["P", "What do you mean by \"other universes\", anyway?"],
+
+      ["N", "Independent bodies of reified information."],
+
+      ["P", "How are these bodies reified?"],
+
+      ["N", "So far we have no good conjectures."],
+
+      ["P", "What about consciousness? In what way is that reified?"],
+
+      ["N", "We don't think it is. We have no evidence it exists "
+            "independent of physical dynamics."],
+
+      ["P", "That doesn't mean it doesn't."],
+
+      ["N", "If you can challenge our ontology with speculation, we can "
+            "support it likewise."],
+
+      ["P", "But isn't the burden of proof on you?"],
+
+      ["N", "That question assumes proof is required. We accept these ideas "
+            "as mere belief, not truth."],
+
+      ["P", "Why believe them if you don't know they're true?"],
+
+      ["N", "We prefer them over the others we have encountered."]
+
+
+      ["N", "Hello Officer %playerName%, I understand you will be delivering "
+            "our terraforming equipment to Ssh. We are sending it over."],
+
+      ["P", "Thank you."],
+
+      ["N", "Is there anything else?"],
+
+
+      ["N", "Hello Officer %playerName%. We hope you are doing well in this "
+            "difficult time."],
+
+      ["P", "Thanks. I'm doing as well as can be expected. I've come to "
+            "discuss an interesting find some fenderit activists made in your "
+            "space."],
+
+      ["N", "Yes, the catalyst remains."],
+
+      ["P", "So you know about it. We're trying to account for this extra set "
+            "and determine who left it there."],
+
+      ["N", "We have discussed it with the manufacturer. They say every "
+            "exotic matter product they sell undergoes rigorous inspection "
+            "before its release. It would have been easier to duplicate an "
+            "order than to falsify test results."],
+
+      ["P", "So someone secretly made a false set and swapped it in after the "
+            "test."],
+
+      ["N", "Furthermore, a top executive in the company has gone missing."],
+
+      ["P", "Probably met the same fate as the catalysts."],
+
+      ["N", "Probably. Meanwhile our other leads have yielded nothing so "
+            "far."],
+
+      ["P", "Give me what you have and I'll take it to our activist friends "
+            "among the Fenderit. Maybe they can come up with something."],
+
+      ["N", "We are sending our records now. Good luck."],
+
+
+      ["P", "Hello. A soom fenderit gave me this package. They wouldn't tell "
+            "me what it is or what it's for. Do you have any idea?"],
+
+      ["N", "It looks like a dedicated encryption node, one for passing "
+            "letters and reports."],
+
+      ["P", "Can you decrypt it?"],
+
+      ["N", "It most likely is quantum encryption. We could decrypt it but "
+            "the recipient would know."],
+
+
+      ["P", "Hm, better not. Thank you."],
+
+
+      ["P", "Do it anyway. I want to know what it says."],
+
+      ["N", "Just a moment... Here you are."],
+
+      ["P", "It's... it's a cookbook!"],
+
+      ["N", "Not what you had hoped for, it seems."]
+    ]
+  }
+}

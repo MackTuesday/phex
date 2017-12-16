@@ -1,0 +1,85 @@
+{
+  "name": "clinngocc",
+  "entryStates": [{"default": 0}],
+  "dialog": {
+    "npclines":
+    [
+      "Hello, I am Director Clinngocc. We received your distress call. How can
+       we assist?",
+
+      "Yes, we detected two large energy bursts and were coming to investigate
+       when your distress call came. Whatever brought you here was no ordinary
+       continuum flux. But first things first -- how can we get your engines
+       working again?",
+
+      "Not a vessel per se, but there were two large energy bursts above this
+       planet and here you are. Perhaps one of those corresponds to the ship
+       you're looking for.",
+
+      "You're in the Ssh home system. I am of Ssh. We don't recognize your
+       kind either, so it seems you're quite far from home.",
+
+      "Yes, we do. I'll send someone over to take a look...",
+
+      "I understand the engineering work is done and your engines are working "
+      "again.",
+
+      "You're welcome. We're glad to help. Remember that the materials we "
+      "used "
+      "to repair your engines are on loan. If we never see you again, "
+      "consider "
+      "it a gift, but we'll need to be repaid if you ever need more help.",
+
+      "Hmm. I'll tell you what. You're an officer of the law, right? And it "
+      "looks like your ship is moderately well armed. If you could run a "
+      "patrol circuit around our system and check for pirate activity, we "
+      "would consider the debt paid. Enter orbit around each of the planets "
+      "in our system and visit our homeworld last. It's the ",
+      "%sshHomeworldOrbitCardinal% planet in this system.",
+
+      "Another thing. While we waited for your repairs to complete, we "
+      "scanned "
+      "the planet surface and discovered the wreckage of what might be the "
+      "very ship you're looking for. You'll find it at "
+      "%thiefWreckageLatLong%.",
+
+      "Sorry, but we have other matters to attend to. Come to our homeworld "
+      "at the end of your patrol and they'll answer your questions. Good "
+      "luck.",
+
+      "Sorry, but we have other matters to attend to. Good luck."
+    ],
+
+    "playerlines":
+    [
+      "This is Officer %playerName% of the Arth Sector Police Force.",
+
+      "I followed a suspect here through a continuum flux of some kind. I've
+       sustained heavy damage to my engines and I'm stranded.",
+
+      "I'm in
+       pursuit of a suspect that might have passed through here. Have you
+       detected a foreign vessel around here in the last few minutes?",
+
+      "I don't recognize your ship design or your species. Where am I?",
+
+      "My engineering expertise is limited. Do you have an engineer on your
+       ship who'd be willing to take a look at it?",
+
+      "Thanks. The reason for my distress call is because my engines are
+       damaged.",
+
+      "Not good..."
+
+      "Yeah, your engineer did an excellent job. Thank you so much.",
+
+      "Understood. Do you have any ideas about how I might attain these "
+      "resources? I'm not well connected out here.",
+
+      "That sounds fine. Consider it done.",
+
+      "Great. Before you go, I have a number of questions about the region.
+       Can you spare some more time?"
+     ]
+  },
+}

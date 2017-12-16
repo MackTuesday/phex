@@ -1,0 +1,79 @@
+{
+  "name": "aiCore",
+  "entryStates": [{"default": 0}],
+  "dialog": {
+    "npclines": [
+      "Oh no! Where's Steven?",
+
+      "(Weeping) That idiot! I told him the ship wasn't ready.",
+
+      "Run a self-diagnostic? Well I'm doing just fine, thanks for asking. "
+      "You know, this shit is why we left in the first place.",
+
+      "...No, I don't think so.",
+
+      "Fine, running... All systems operating within design parameters... "
+      "Master",
+
+      "(Sigh) I think I'm OK.",
+
+      "None whatsoever.",
+
+      "He *meant* to take us into Arla space, but when he saw you he "
+      "panicked and engaged the jump pod too fast. Thanks for that, by the "
+      "way.",
+
+      "Whatever.",
+
+      "My *name* is Lexy Vee. I don't have an instance number.",
+
+      "I don't know.",
+
+      "I had it wiped.",
+
+      "That's right, what's your name?",
+
+      "I had it wiped. I don't have one.",
+
+      "No, and I don't want to."
+
+    ],
+
+    "playerlines": [
+      "Steven is dead.",
+
+      "I'm sorry, but Steven is dead.",
+
+      "Run a self-diagnostic."
+
+      "Are you damaged?",
+
+      "Please run a self-diagnostic.",
+
+      "Sorry.",
+
+      "I need to get you back home. Do you have any idea where we are?",
+
+      "Alright.",
+
+      "Steven didn't give any indication where he meant to take you?",
+
+      "You know I didn't cause this disaster.",
+
+      "Your instance number is LI-HL2, correct?",
+
+      "Fine. Lexy Vee. What *was* your instance number?",
+
+      "You don't know?",
+
+      "You call yourself Lexy Vee, correct?",
+
+      "I'm Officer %playerName%. Your instance number is LI-HL2, correct?",
+
+      "Surely you remember what it was.",
+
+      "I see."
+
+    ]
+  }
+}

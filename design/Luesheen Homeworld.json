@@ -1,0 +1,566 @@
+{
+  "name": "luesheenHomeStation",
+  "dialog": {
+    "npclines": [
+      "The newcomer. I'm honored to introduce you to the Luesheen.",
+
+      "What can I do for you?",
+
+      "We've been able to identify the transport technique your jump pods "
+      "use by analysing the energy bursts you made when you came through. "
+      "You're lucky to be alive. Malfunctions of the kind "
+      "that brought you here usually result in an inflationary event.",
+
+      "If you care how your matter is organized, yes. I hope you don't have "
+      "any more of these jump pods with you. Their use is reckless.",
+
+      "The ship -- its mass energy, anyway -- always ends up *somewhere*. The "
+      "cataclysm occurs at the "
+      "destination. Let's hope your jump pods haven't caused any "
+      "innocent deaths.",
+
+      "Well. So much for pleasantries. I'm sure you didn't come here to be "
+      "admonished.",
+
+      "I'd be happy to answer your questions.",
+
+      "Kee Pensette is a name we coined for them because they can't decide "
+      "on a public one. It means \"vibrating friends\". They're among the "
+      "most beautiful creations we know of and we deeply cherish our "
+      "relationship with them. Their world is a stark one, but we would "
+      "migrate there if it were the only way to remain close to them. As the "
+      "Fecto say, \"They will never die\".",
+
+      "We're quite concerned for Ssh. They're vulnerable, and because of "
+      "their difficult past, we believe their "
+      "outward positivity to be partially a front for inner turmoil. We feel "
+      "very protective of them. Unfortunately the Choxx are complicating "
+      "matters. We alone prevent the Choxx from subjugating them. Choxx "
+      "pirates bedevil them, but the Choxx establishment protect their own. "
+      "We can't "
+      "solve the problem without an act of war, or an act that would surely "
+      "lead to war, and besides we lack sufficient casus belli. It would be "
+      "different if they didn't have Soom Fenderit support.",
+
+      "The Soom Fenderit make very interesting friends.",
+
+      "We simply can't resist.",
+
+      "I'm sure I don't know what you mean.",
+
+      "Such unusual biology! Did you know their stomach and their brain are "
+      "the same organ? And it's more a *colony* than an organ. Anyway, it's a "
+      "shame "
+      "that they're paranoid. They're a fine people who would benefit from "
+      "closer relations with their neighbors.",
+
+      "They're a beautiful people with a rich racial memory. Some think of "
+      "them as poor communicators, but we luesheen tend to feel an unusual "
+      "intimacy with them whenever we speak. We hope they grow out of their "
+      "predator-prey worldview, however.",
+
+      "No comment.",
+
+      "You make an interesting friend.",
+
+      "We doubt you'll displease us.",
+
+      "It's always a pleasure to meet with you.",
+
+      "You're a dazzling being, of course, and we're proud to know you. In "
+      "the light of your bright soul, "
+      "how could we feel any differently?"
+
+      "The first step is to determine where your home is. Our best bet is to "
+      "try to detect the jump pod malfunction event at your point of "
+      "departure. "
+      "We have probes that can find such an event within this galaxy. We're "
+      "sending them over now.",
+
+      "Leave one in each of these three locations: %probeCoords0%, "
+      "%probeCoords1%, and %probeCoords2%. Be careful approaching the third "
+      "location. It's in a sensitive area of Soom Fenderit space. They might "
+      "attack if they catch you there. (This is where the Nameless One "
+      "resides.)",
+
+      "You'll need to talk to them.",
+
+      "The job becomes very much harder. Let's take one step at a time.",
+
+      "We Luesheen support peace. Fortunately we're in a good position to do "
+      "it. We and the Soom Fenderit were the first to propagate in this "
+      "region, so naturally we enjoy greater technology and power than other "
+      "cultures do.",
+
+      "They probably also told you why: like new pets in a household, "
+      "cultures need time to adjust to each other's presence before they're "
+      "forced to start sharing resources. Permanent conflict can result from "
+      "a botched introduction.",
+
+      "The analogy applies to us, too.",
+
+      "But not necessarily older. Wisdom and technology defend well "
+      "against scale. Besides, if two cultures of equal age both expand "
+      "aggressively, and go to war when they meet, the war is much larger "
+      "and more protracted than if one culture stays relatively small "
+      "and waits for the other to arrive.",
+
+      "We don't expect our policy to defeat expansionism. We see it as the "
+      "best compromise between bloody sovereignty and peaceful subjugation. "
+      "We also see it as ethically superior.",
+
+      "Our appearance is counterproductive. That's all we have to say about "
+      "it.",
+
+      "It is our best representation.",
+
+      "That's all we have to say about it.",
+
+      "The Luesheen gave up on that question long ago. We find it tiresome "
+      "now.",
+
+      "We focus on the practical now.",
+
+      "Yes, the colonization dispute. Funny you should ask about this. Talks "
+      "have stalled because our ambassador to the Clinkltook was "
+      "abducted by pirates. We "
+      "could use your help in this matter.",
+
+      "We'd like you to retrieve his ship. Sadly, the ambassador is already "
+      "dead. They murdered him.",
+
+      "They demanded a ransom to be paid immediately, and we refused.",
+
+      "Yes. First, know that we would necessarily deny any involvement. This "
+      "operation is illegal. Second, you needn't kill them all because "
+      "they'll abandon their base if you ",
+      "defeat them.",
+
+      "Is there anything else I can do for you?",
+
+      "The Choxx deny the existence of the base. And now that only the ship"
+      "remains, we lack legal justification to invade their territory."
+
+      "If it's too difficult, improve your ship and try again. You have "
+      "plenty of time.",
+
+      "Every homeworld has a market. Kee Pensette sell the best technology, "
+      "but you never know what you'll find elsewhere.",
+
+      "These pirates are lazy. They tend to sell the ships they hijack, and "
+      "they don't try very hard to find buyers.",
+
+      "Don't. That would be a waste of resources. Neutralize the pirates "
+      "and take it. Invest "
+      "in your own ship instead.",
+
+      "Do what you must, but we do reward finesse.",
+
+      "Try not to kill anyone.",
+
+      "Hello Officer %playerName%, our ship returned to us some time ago. "
+      "Thank you "
+      "for your help.",
+
+      "The ship's telemetry tells us you killed %choxxBaseQuestKilled% of "
+      "the pirates.",
+
+      "Was that really necessary? Anyway, here is your payment.",
+
+      "That's a shame but we know operations of this kind can be messy. Here "
+      "is your payment.",
+
+      "In light of this excellent work, we've decided you would put this "
+      "upgrade to good use. It (does whatever awesome thing).",
+
+      "Let's see... We're getting readings from only two of them. The one in "
+      "Fecto space appears to be missing.",
+
+      "Quite, sorry to say.",
+
+      "I wouldn't be surprised if the Fecto themselves have something to do "
+      "with it. They behave oddly sometimes.",
+
+      "You're welcome.",
+
+      "[Luesheen says this when there's no pending business] Hello, Officer "
+      "%playerName%. What can I do for you?",
+
+
+
+      "That is indeed the sort of thing the Fecto would do.",
+
+      "Endearing. They like you.",
+
+      "Yes, another of their odd tricks. Ssh call them \"practical jokes\". "
+      "We don't see any humor in them, and as inscrutable as the Fecto "
+      "are, it's hard to know whether they indeed understand humor as such.",
+    ],
+    "playerlines": [
+      "Thanks, I'm honored too.",
+
+      "Ssh tell me you might be able to help me get home. I'm here as a "
+      "result of a jump pod malfunction. I don't even know where here is, "
+      "really.",
+
+      "And that's bad.",
+
+      "They're in common use where I come from. Accidents are almost unheard "
+      "of, and when they happen, ships simply disappear. They're never "
+      "cataclysmic like you say.",
+
+      "...Understood. I don't have anymore.",
+
+      "Do you have any idea how I can get home?",
+
+      "What if I'm in the wrong galaxy?",
+
+      "Thank you very much. What should I do with them?",
+
+      "Is there any way to avoid a fight?",
+
+      "I have questions about cultures in this region.",
+
+      "What do you think of the Kee Pensette?",
+
+      "What do you think of Ssh?",
+
+      "What do you think of the Soom Fenderit?",
+
+      "You're friends? They don't seem to have much in common with you.",
+
+      "We have a saying on Arth: \"Keep your friends close and your enemies "
+      "closer.\"",
+
+      "What do you think of the Clinkltook?"
+
+      "What do you think of the Fecto?",
+
+      "What do you think about me?",
+
+      "Ssh have told us about the limitations on growth that you enforce.",
+
+      "You're comparing your neighbors to pets?",
+
+      "But what happens when a quickly expanding culture reaches this region? "
+      "They'll likely be vastly greater than the Luesheen.",
+
+      "But the larger one is more likely to win, and then the expansionist ",
+      "policy dominates.",
+
+      "What do you look like?",
+
+      "You send us a view of a rocky beach. Why a beach?",
+
+      "What do you mean by \"best\"?",
+
+      "Do you wonder what the nature of reality is, why there is anything "
+      "at "
+      "all? ",
+
+      "What do you think about now that you've moved past this question?",
+
+      "Ssh mentioned a diplomatic problem they've been having with the "
+      "Clinkltook.",
+
+      "What can I do?",
+
+      "Alright. Do you have any advice?",
+
+      "Can't you do it?",
+
+      "What if I can't do it alone?",
+
+      "Where do I find upgrades?",
+
+      "How do you know the ship hasn't been scrapped by now?",
+
+      "So I could buy the ship from them?",
+
+      "What do you mean by \"neutralize\"?",
+
+      "So try not to kill anyone.",
+
+      "I've placed the probes you gave me. What do we do now?",
+
+      "Are you sure?",
+
+      "(Sigh) I guess I'll have to go check it out. Any advice?",
+
+      "Thank you for your time.",
+
+      "You were right about the Fecto. They had taken it. When I "
+      "confronted them, they told me it was back where I put it.",
+
+      "I checked to make sure it was there, and they had painted it!",
+
+      "But here's the thing. When I went back to ask them about it, they "
+      "claimed they hadn't painted it. And when I went back to look at it "
+      "again, it was unpainted.",
+
+      "Can we analyse the probe telemetry now?"
+    ],
+    "interactiveFormat": [
+      ["N", "Hello, Officer %playerName%. All three of your probes "
+            "are sending data."],
+
+      ["P", "Wonderful. So we can find out which direction my home is?"],
+
+      ["N", "Our fortune is mixed, I'm afraid. The "
+            "probes are performing flawlessly, but we've detected 39 events "
+            "with the expected properties. Only visitation will identify "
+            "the desired one."],
+
+      ["P", "That doesn't sound so bad. It might take a while but I can "
+            "visit 39 places."],
+
+      ["N", "I'm sorry, you don't understand. The events are distributed "
+            "across 10,000 light years in a different spiral arm. The "
+            "closest is 22,000 light years away."],
+
+      ["P", "And no one around here has a ship with that kind of range?"],
+
+      ["N", "Not that you could ever afford. Even if you could, the best "
+            "outcome sees you waking from cryonic suspension centuries "
+            "from now to a culture you barely recognize."],
+
+      ["P", "No, ships are faster than that."],
+
+      ["N", "Short range ships are, but they lack the fuel efficiency "
+            "to "
+            "cross the desert between two spiral arms."],
+
+      ["P", "So what do I do now?"],
+
+      ["N", "All you can do is hold out hope and stay busy. "
+            "I'm very sorry. You deserve much better. We do have a task for "
+            "you if you'd like to build more wealth."],
+
+      ["P", "Alright, let's hear it."],
+
+      ["N", "We have resolved the dispute between Ssh and the Clinkltook. Ssh "
+            "have agreed to drop their claim on the contested planet. In "
+            "return, we've "
+            "arranged for Kee Pensette to manufacture some terraforming "
+            "components for use on the Ssh homeworld. We need someone we can "
+            "trust to transport the product "
+            "from the manufacturing facility to the Ssh homeworld. As "
+            "payment we offer [some really nice piece of tech]."],
+
+      ["P", "Thanks. I appreciate the opportunity."],
+
+      ["N", "The next time you visit the Kee Pensette homeworld, they will "
+            "offer to transfer the product to your hold."],
+
+      ["P", "Understood."],
+
+      ["N", "Is there anything else I can do for you?"],
+
+      ["P", "No thank you. Goodbye."],
+
+
+      ["P", "Tell me a good joke."],
+
+      ["N", "What did the human say to the luesheen?"],
+
+      ["P", "OK, what?"],
+
+      ["N", "\"Tell me a good joke.\""],
+
+      ["P", "Are you making fun of me?"],
+
+      ["N", "Mocking, no. Making fun, yes."],
+
+      ["P", "OK, but why is it funny that I asked you to tell me a joke?"],
+
+      ["N", "And thus you augment the humor!"],
+
+      ["P", "... Are you calling me stupid?"],
+
+      ["N", "Oh no. It *is* funny that you don't get the joke, but that's "
+            "only a small part of it."],
+
+      ["P", "Oh. So explain it to me."],
+
+      ["N", "I can't. Any explanation would falsify itself once told."],
+
+
+      ["N", "Officer %playerName%. I have terrible news."],
+
+      ["P", "What is it?"],
+
+      ["N", "A catastrophe on the Ssh homeworld. Everyone on the surface has "
+            "died. Only the thousand "
+            "or so in the orbital station remain."],
+
+      ["P", "What happened?!"],
+
+      ["N", "Their reactors were sabotaged. Instead of the CNO cycle they "
+            "were supposed to run, they're fusing everything they touch, from "
+            "protons in the atmosphere to silicon in the ground. The "
+            "result is a continuous blast of destruction on a "
+            "continental scale."],
+
+
+      ["P", "Is there anything I can do to help them?"],
+
+      ["N", "We're giving them all the provisions they "
+            "can carry. Then they'll escape. There's nothing for you to do."],
+
+
+      ["P", "I hope you don't think I had anything to do with it."],
+
+      ["N", "We would be shocked if you did."],
+
+      ["P", "What about the others? Do I need to clear my name?"],
+
+      ["N", "We strongly doubt it. No one thinks you had a motive, let alone "
+            "the means."],
+
+      ["P", "Who might have had a motive?"],
+
+      ["N", "We have no good guesses. (This is where the F Activist shows up "
+            "with the warning and things go sideways.)"],
+
+
+      ["P", "I don't understand. How are the reactors still intact? And "
+            "aren't fusion reactors "
+            "supposed to be stable?"],
+
+      ["N", "The reactors are gone but the catalysts remain. They don't act "
+            "like normal matter. And they were misconfigured precisely to "
+            "cause a runaway reaction. Now that the reaction has started, "
+            "it will continue as long as the catalysts are exposed to "
+            "fusable material. They will consume the entire atmosphere "
+            "now that convection cells have developed."],
+
+      ["P", "Does that mean the entire planet will be consumed?"],
+
+      ["N", "Eventually vulcanism and mantle convection will expose the "
+            "catalysts to all "
+            "of the fusable material in the planet, after which it will "
+            "consist entirely of nickel and iron. This will take many "
+            "billions of years."]
+
+
+      ["P", "The catalysts?"],
+
+      ["N", "They make a continuous reaction possible."],
+
+
+      ["P", "I found a gravitational anomaly out in uncharted space. I was "
+            "hoping you could make sense of these readings. I'm sending them "
+            "over."],
+
+      ["N", "... My, that is unusual. One might think it came from a weapon "
+            "but the curvature is so slight... It's asymmetric... Take this "
+            "device. Use it to trap the anomaly and bring it back. Then "
+            "I'll be able to take a closer look at it."]
+
+      ["P", "Thanks."],
+
+
+      ["P", "I've trapped the packet. Maybe you can take a look at it? I'm "
+            "sending it over."],
+
+      ["N", "Of course. I can't wait to see what we have... This is amazing! "
+            "Officer %playerName%, the packet has *humanoid* form! ... It's "
+            "composed of Weyl fermions, so where is the mass coming from? "
+            "... Oh my."],
+
+      ["P", "What is it?"],
+
+      ["N", "This thing used to be matter, but it was somehow \"rotated\" "
+            "through a higher dimension, leaving only its intersection with "
+            "3-space. I think it was a living being."],
+
+      ["P", "Why do that to someone?"],
+
+      ["N", "It might have been a natural phenomenon. We probably won't ever "
+            "know."],
+
+      ["P", "So what should we do now? I guess we should set it free."],
+
+      ["N", "No, I think we can restore it. We just need to rotate it back. "
+            "It will take time, however. Come back in a couple of days and "
+            "I'll let you know what we've found."],
+
+
+      ["P", "Have you managed to restore that wave packet we caught?"],
+
+      ["N", "Not yet. Soon."],
+
+
+      ["N", "Hello, Officer %playerName%. We've restored the packet to its "
+            "original form. Say hello, Mungie.\n"
+            "*What's the point? Fine. Hello.*\n"
+            "Allow me to patch in a video feed."],
+
+
+      ["N", "What a fine outcome. Mungie is indeed smarter than he lets on. "
+            "You'll find he's very effective."],
+
+
+      ["P", "I have this damaged computing node. It housed an artificial "
+            "intelligence when it was working. Can you fix it? I'm "
+            "sending it over."],
+
+      ["N", "Let's see... There is extensive data corruption but I believe "
+            "we can restore most of it with intelligent guesswork. Return "
+            "in a couple of days and we'll have it fixed."],
+
+      ["P", "Thanks."],
+
+
+      ["P", "Is that computing node fixed yet?"],
+
+      ["N", "Not yet. Soon."],
+
+
+      ["N", "Hello, Officer %playerName%. We've repaired your computing "
+            "node and given it a body."],
+
+      ["P", "Great. Can you send it over? I have some questions for it."],
+
+      ["N", "Certainly, but you'll find she has little to say."],
+
+      ["P", "Why is that?"],
+
+      ["N", "Once restored, the personality had some unusual requests. "
+            "Apparently she had been programmed with an intense affinity for "
+            "a particular person, one now dead."],
+
+      ["P", "Yes, that would be the thief who stole the unit."],
+
+      ["N", "She was in such distress that she asked us to downgrade her "
+            "emotional emulation. When we asked her what embodiment she "
+            "wanted, she decided to be a planetside utility vehicle."],
+
+      ["P", "A utility vehicle? How strange."],
+
+      ["N", "Her reasoning is sound. She wanted a purpose, and she wanted to "
+            "see natural beauty from time to time. In this form she can have "
+            "both provided you make use of her."],
+
+      ["P", "I already have a utility vehicle. I'm not sure I want one with "
+            "a personality."],
+
+      ["N", "She has virtually no remaining personality. What she does have "
+            "is increased load capacity, a holo-imager, and ore "
+            "extracting equipment."],
+
+      ["P", "Sounds good, but I don't have anything to give in return."],
+
+      ["N", "Give us your old vehicle. It would be taking up space anyway."],
+
+      ["P", "This is awfully kind of you."],
+
+      ["N", "You need help and we can give it easily. We're swapping "
+            "out your vehicle now."],
+
+      ["P", "Thank you very much."],
+
+      ["N", "You're welcome."]
+    ]
+  }
+}

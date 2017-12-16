@@ -1,0 +1,50 @@
+{
+  "name": "FenderitListeningStation",
+  "dialog": {
+    "interactiveFormat": [
+      ["N", "Officer %playerName%! We hit the jackpot! We've been "
+            "communicating with the being inside the restricted area. "
+            "Turns out it's an artificial intelligence of unknown origin! "
+            "Would you like to speak to it?"],
+
+
+      ["P", "No thank you, but relay my best wishes to it."],
+
+      ["N", "OK."],
+
+
+      ["P", "Yes, I'd like that."],
+
+      ["N", "OK, just a moment..."],
+
+
+
+      ["N", "We don't know when the area will be open to outsiders, but we "
+            "can take your probe and put it where it needs to be. Give it "
+            "a couple of days. We'll tightbeam"
+            "you as soon as it's ready."],
+
+      ["P", "Wait, I thought I was going to place it."],
+
+      ["N", "Sorry for the misunderstanding, but that was never the plan "
+            "as far as we were concerned. Surely you can see that our "
+            "government isn't going to open the border just because "
+            "we expose the truth. This is just the beginning. We have "
+            "operatives who can place the probe for you, but there's no "
+            "telling when the area will be open to outsiders."],
+
+      ["P", "Very well. I'm sending over the probe now."],
+
+      ["N", "Don't worry. We owe you. Like I said, your probe will be in "
+            "place in a couple of days. I give you my word."],
+
+
+      ["P", "Sounds good. I'm sending over the probe now."],
+
+
+      ["N", "Thanks for your help, Officer. Be well."],
+
+      ["P", "And thank you. Goodbye."],
+    ]
+  }
+}
